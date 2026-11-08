@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 6548058215309407802}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0428, y: -0.9355, z: 0}
-  m_LocalScale: {x: 1.3227313, y: 1.5844254, z: 1}
+  m_LocalPosition: {x: 0.04, y: -2.53, z: 0}
+  m_LocalScale: {x: 2.8011134, y: 4.162286, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8460026977107407343}
@@ -151,7 +151,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -463341037755094763, guid: 2e16bd937ddf5c94a8d67f9a84f06b95, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.21960784}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.07058824}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -199,6 +199,7 @@ GameObject:
   - component: {fileID: 4126537546508661513}
   - component: {fileID: 3946643648522518082}
   - component: {fileID: 3503857837394608906}
+  - component: {fileID: 5099621674633282151}
   m_Layer: 0
   m_Name: Ovni
   m_TagString: Untagged
@@ -309,10 +310,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Ovni
   vidaMax: 100
   velocidad: 5
-  animador: {fileID: 0}
+  animador: {fileID: 5099621674633282151}
   danioContacto: 15
   rangoTiempoExtra: {x: 1, y: 5}
   invulnerable: 0
+--- !u!95 &5099621674633282151
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7027327100838674351}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2bd4fd176dda89641aa68ac104ad3bfd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8044067530679230346
 GameObject:
   m_ObjectHideFlags: 0
