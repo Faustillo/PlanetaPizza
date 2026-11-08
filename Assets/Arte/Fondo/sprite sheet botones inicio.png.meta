@@ -117,7 +117,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -148,12 +148,12 @@ TextureImporter:
       name: sprite sheet botones inicio_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 4
-        width: 156
-        height: 35
+        x: 0
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -170,12 +170,12 @@ TextureImporter:
       name: sprite sheet botones inicio_1
       rect:
         serializedVersion: 2
-        x: 161
-        y: 3
-        width: 157
-        height: 37
+        x: 159
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -192,12 +192,12 @@ TextureImporter:
       name: sprite sheet botones inicio_2
       rect:
         serializedVersion: 2
-        x: 321
-        y: 4
-        width: 153
-        height: 35
+        x: 318
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -214,12 +214,12 @@ TextureImporter:
       name: sprite sheet botones inicio_3
       rect:
         serializedVersion: 2
-        x: 480
-        y: 3
-        width: 154
-        height: 37
+        x: 477
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -236,12 +236,12 @@ TextureImporter:
       name: sprite sheet botones inicio_4
       rect:
         serializedVersion: 2
-        x: 638
-        y: 4
-        width: 156
-        height: 35
+        x: 636
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -258,12 +258,12 @@ TextureImporter:
       name: sprite sheet botones inicio_5
       rect:
         serializedVersion: 2
-        x: 797
-        y: 3
-        width: 157
-        height: 37
+        x: 795
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -280,12 +280,12 @@ TextureImporter:
       name: sprite sheet botones inicio_6
       rect:
         serializedVersion: 2
-        x: 956
-        y: 4
-        width: 156
-        height: 35
+        x: 954
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -302,12 +302,12 @@ TextureImporter:
       name: sprite sheet botones inicio_7
       rect:
         serializedVersion: 2
-        x: 1115
-        y: 3
-        width: 157
-        height: 37
+        x: 1113
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -324,12 +324,12 @@ TextureImporter:
       name: sprite sheet botones inicio_8
       rect:
         serializedVersion: 2
-        x: 1274
-        y: 4
-        width: 156
-        height: 35
+        x: 1272
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -346,12 +346,12 @@ TextureImporter:
       name: sprite sheet botones inicio_9
       rect:
         serializedVersion: 2
-        x: 1433
-        y: 3
-        width: 157
-        height: 37
+        x: 1431
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -368,12 +368,12 @@ TextureImporter:
       name: sprite sheet botones inicio_10
       rect:
         serializedVersion: 2
-        x: 1593
-        y: 4
-        width: 153
-        height: 35
+        x: 1590
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -390,12 +390,12 @@ TextureImporter:
       name: sprite sheet botones inicio_11
       rect:
         serializedVersion: 2
-        x: 1752
-        y: 3
-        width: 154
-        height: 37
+        x: 1749
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -412,12 +412,12 @@ TextureImporter:
       name: sprite sheet botones inicio_12
       rect:
         serializedVersion: 2
-        x: 1911
-        y: 4
-        width: 153
-        height: 35
+        x: 1908
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -434,12 +434,12 @@ TextureImporter:
       name: sprite sheet botones inicio_13
       rect:
         serializedVersion: 2
-        x: 2070
-        y: 3
-        width: 154
-        height: 37
+        x: 2067
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -456,12 +456,12 @@ TextureImporter:
       name: sprite sheet botones inicio_14
       rect:
         serializedVersion: 2
-        x: 2229
-        y: 4
-        width: 153
-        height: 35
+        x: 2226
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -478,12 +478,12 @@ TextureImporter:
       name: sprite sheet botones inicio_15
       rect:
         serializedVersion: 2
-        x: 2388
-        y: 3
-        width: 154
-        height: 37
+        x: 2385
+        y: 0
+        width: 159
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -500,7 +500,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 309fdf9548f06b846b9cac29df662ebf
     internalID: 0
     vertices: []
     indices: 
@@ -508,7 +508,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":1.0},"gridSpriteSize":{"x":159.0,"y":43.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       sprite sheet botones inicio_0: -6633516884761753633
       sprite sheet botones inicio_1: 435834552773666935
