@@ -77,6 +77,13 @@ public abstract class Entidad : MonoBehaviour
         gameObject.SetActive(false);
     }
 
+    /// <summary>Deja la entidad como nueva (para reutilizarla desde un pool).</summary>
+    public virtual void Reiniciar()
+    {
+        estaViva = true;
+        CambiarVida(vidaMax);
+    }
+
     public void ReproducirAnimacion(string nombre)
     {
         if (animador != null)
