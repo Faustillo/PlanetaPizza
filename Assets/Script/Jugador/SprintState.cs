@@ -1,3 +1,4 @@
+
 using UnityEngine;
 
 public class SprintState : State_Base
@@ -33,13 +34,8 @@ public class SprintState : State_Base
     private void VolverAlEstadoCorrespondiente()
     {
         if (jugador.DireccionMovimiento != Vector2.zero)
-        {
             state_machine.SetState<MovimientoState>();
-        }
         else
-        {
-            jugador.Detener(); // CAMBIO: con física hay que frenar al pasar a Idle
             state_machine.SetState<IdleState>();
-        }
     }
 }

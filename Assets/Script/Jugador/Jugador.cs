@@ -1,3 +1,4 @@
+
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -71,22 +72,6 @@ public class Jugador : Entidad
 
         if (stateMachine == null)
             stateMachine = GetComponent<State_Machine>();
-
-        ConfigurarRigidbody();
-    }
-
-    // CAMBIO: el jugador usa física dinámica para que los colliders sólidos lo frenen.
-    // Se fuerza por código para no depender de que el Inspector esté bien configurado.
-    private void ConfigurarRigidbody()
-    {
-        if (rb == null) return;
-
-        rb.bodyType = RigidbodyType2D.Dynamic;
-        rb.gravityScale = 0f;
-        rb.linearDamping = 0f;
-        rb.freezeRotation = true;
-        rb.interpolation = RigidbodyInterpolation2D.Interpolate;
-        rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
     }
 
     public override void Actualizar(float dt)
@@ -175,8 +160,6 @@ public class Jugador : Entidad
             Keyboard.current.rightShiftKey.isPressed;
     }
 
-    // CAMBIO: antes usaba rb.MovePosition(... * Time.deltaTime).
-    // Ahora asigna velocidad al Rigidbody: la física resuelve las colisiones y frena al jugador.
     public void Mover(float multiplicadorVelocidad)
     {
         if (rb == null || !EstaViva || muerteSolicitada)
@@ -187,18 +170,14 @@ public class Jugador : Entidad
         foreach (float factor in lentitudes)
             multiplicadorLentitud *= factor;
 
-        rb.linearVelocity =
+        Vector2 desplazamiento =
             direccionMovimiento *
             velocidadMovimiento *
             multiplicadorVelocidad *
-            multiplicadorLentitud;
-    }
+            multiplicadorLentitud *
+            Time.deltaTime;
 
-    // CAMBIO (nuevo): con física hay que frenar la velocidad explícitamente.
-    public void Detener()
-    {
-        if (rb != null)
-            rb.linearVelocity = Vector2.zero;
+        rb.MovePosition(rb.position + desplazamiento);
     }
 
     public void ConsumirEnergia(float cantidad)
@@ -211,7 +190,6 @@ public class Jugador : Entidad
         if (vida <= 0f)
         {
             muerteSolicitada = true;
-            Detener(); // CAMBIO: que no siga deslizándose al morir
 
             Debug.Log(
                 "[ENERGIA] ¡Energía agotada! Entrando en estado Morir."
@@ -310,19 +288,17 @@ public class Jugador : Entidad
         );
     }
 
-    // CAMBIO: se quitó el "if (!lentitudes.Contains(factor))". Con dos ovnis solapados
-    // (mismo factor) el segundo se ignoraba y, al salir de uno, se quitaba la lentitud
-    // aunque siguiera dentro del otro. Ahora cada zona suma su propia entrada.
     public void AplicarLentitud(float factor)
     {
         if (factor <= 0f || factor > 1f)
             return;
 
-        lentitudes.Add(factor);
+        if (!lentitudes.Contains(factor))
+            lentitudes.Add(factor);
     }
 
     public void QuitarLentitud(float factor)
     {
-        lentitudes.Remove(factor); // quita una sola aparición
+        lentitudes.Remove(factor);
     }
 }

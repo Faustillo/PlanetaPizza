@@ -1,3 +1,4 @@
+
 using UnityEngine;
 
 public class MovimientoState : State_Base
@@ -19,7 +20,6 @@ public class MovimientoState : State_Base
     {
         if (jugador.DireccionMovimiento == Vector2.zero)
         {
-            jugador.Detener(); // con física hay que frenar la velocidad explícitamente
             state_machine.SetState<IdleState>();
             return;
         }
