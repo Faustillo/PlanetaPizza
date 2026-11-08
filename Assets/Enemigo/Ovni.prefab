@@ -308,7 +308,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 735fd6023b6c2814a964809c2e16d38f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Ovni
-  vidaMax: 100
+  vidaMax: 6
   velocidad: 5
   animador: {fileID: 5099621674633282151}
   danioContacto: 15
