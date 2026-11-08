@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: e46036529fbe96148bf506a8c732715e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3977468665831060718
+    second: TECLAS Y MOUSE_0
+  - first:
+      213: 8738550368064608476
+    second: TECLAS Y MOUSE_1
+  - first:
+      213: -8931905989930373811
+    second: TECLAS Y MOUSE_2
+  - first:
+      213: 1906441917589027494
+    second: TECLAS Y MOUSE_3
+  - first:
+      213: 2011821877437059911
+    second: TECLAS Y MOUSE_4
+  - first:
+      213: 2489978055921049562
+    second: TECLAS Y MOUSE_5
+  - first:
+      213: -4478385441459143546
+    second: TECLAS Y MOUSE_6
+  - first:
+      213: -8414687949269745529
+    second: TECLAS Y MOUSE_7
+  - first:
+      213: 8724660333817933216
+    second: TECLAS Y MOUSE_8
+  - first:
+      213: -4767100833579012980
+    second: TECLAS Y MOUSE_9
+  - first:
+      213: 4025728769458672129
+    second: TECLAS Y MOUSE_10
+  - first:
+      213: -1275737112886447445
+    second: TECLAS Y MOUSE_11
+  - first:
+      213: -3057414650225605680
+    second: TECLAS Y MOUSE_12
+  - first:
+      213: 8804142270944870647
+    second: TECLAS Y MOUSE_13
+  - first:
+      213: 638027004889088565
+    second: TECLAS Y MOUSE_14
+  - first:
+      213: -8647029725101009991
+    second: TECLAS Y MOUSE_15
+  - first:
+      213: -3845770744052573293
+    second: TECLAS Y MOUSE_16
+  - first:
+      213: -5685721599809909473
+    second: TECLAS Y MOUSE_17
+  - first:
+      213: 7952436028458806998
+    second: TECLAS Y MOUSE_18
+  - first:
+      213: 4214303783558188736
+    second: TECLAS Y MOUSE_19
+  - first:
+      213: -7047117839764373353
+    second: TECLAS Y MOUSE_20
+  - first:
+      213: -5636874981992510383
+    second: TECLAS Y MOUSE_21
+  - first:
+      213: 6411131639288123713
+    second: TECLAS Y MOUSE_22
+  - first:
+      213: -5481140290195618214
+    second: TECLAS Y MOUSE_23
+  - first:
+      213: 4382666363476461840
+    second: TECLAS Y MOUSE_24
+  - first:
+      213: 7094997168579899652
+    second: TECLAS Y MOUSE_25
+  - first:
+      213: -6400408395679772196
+    second: TECLAS Y MOUSE_26
+  - first:
+      213: 2997076803733584783
+    second: TECLAS Y MOUSE_27
+  - first:
+      213: 4847501184286933549
+    second: TECLAS Y MOUSE_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 48
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b84eb62513dc8c0800000000000000
+      internalID: -3977468665831060718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 137
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8995cc241954970800000000000000
+      internalID: 8738550368064608476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 48
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d240f43de7b0480800000000000000
+      internalID: -8931905989930373811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_3
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 48
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aafec2c2da057a10800000000000000
+      internalID: 1906441917589027494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_4
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 48
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743def3a65d6beb10800000000000000
+      internalID: 2011821877437059911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_5
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 48
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf11b179dd2e8220800000000000000
+      internalID: 2489978055921049562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 94
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cfb822b2499d1c0800000000000000
+      internalID: -4478385441459143546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 94
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7804400a4e5093b80800000000000000
+      internalID: -8414687949269745529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 94
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ada82f2958341970800000000000000
+      internalID: 8724660333817933216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 94
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ced0e8c0bd7ddb0800000000000000
+      internalID: -4767100833579012980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_10
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 94
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10297a19cf24ed730800000000000000
+      internalID: 4025728769458672129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2fe9fdadbab4ee0800000000000000
+      internalID: -1275737112886447445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d34a321391e195d0800000000000000
+      internalID: -3057414650225605680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f08ba3cfb89e2a70800000000000000
+      internalID: 8804142270944870647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53245873e2abad800800000000000000
+      internalID: 638027004889088565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b35c1967449ff780800000000000000
+      internalID: -8647029725101009991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b182152e311aac0800000000000000
+      internalID: -3845770744052573293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_17
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d809744524811b0800000000000000
+      internalID: -5685721599809909473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_18
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de2e4f1f6abc5e60800000000000000
+      internalID: 7952436028458806998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_19
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce029a76f63c7a30800000000000000
+      internalID: 4214303783558188736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_20
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 53
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790c68679ab933e90800000000000000
+      internalID: -7047117839764373353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_21
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 54
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ccc0fb11cc5c1b0800000000000000
+      internalID: -5636874981992510383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_22
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1415900224ae8f850800000000000000
+      internalID: 6411131639288123713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_23
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a560fc642f31fe3b0800000000000000
+      internalID: -5481140290195618214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_24
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019411456db52dc30800000000000000
+      internalID: 4382666363476461840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_25
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4017b9b755e767260800000000000000
+      internalID: 7094997168579899652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_26
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd15416997e2d27a0800000000000000
+      internalID: -6400408395679772196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_27
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b7a1b4971c79920800000000000000
+      internalID: 2997076803733584783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECLAS Y MOUSE_28
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 5
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2245b9d4a8c54340800000000000000
+      internalID: 4847501184286933549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TECLAS Y MOUSE_0: -3977468665831060718
+      TECLAS Y MOUSE_1: 8738550368064608476
+      TECLAS Y MOUSE_10: 4025728769458672129
+      TECLAS Y MOUSE_11: -1275737112886447445
+      TECLAS Y MOUSE_12: -3057414650225605680
+      TECLAS Y MOUSE_13: 8804142270944870647
+      TECLAS Y MOUSE_14: 638027004889088565
+      TECLAS Y MOUSE_15: -8647029725101009991
+      TECLAS Y MOUSE_16: -3845770744052573293
+      TECLAS Y MOUSE_17: -5685721599809909473
+      TECLAS Y MOUSE_18: 7952436028458806998
+      TECLAS Y MOUSE_19: 4214303783558188736
+      TECLAS Y MOUSE_2: -8931905989930373811
+      TECLAS Y MOUSE_20: -7047117839764373353
+      TECLAS Y MOUSE_21: -5636874981992510383
+      TECLAS Y MOUSE_22: 6411131639288123713
+      TECLAS Y MOUSE_23: -5481140290195618214
+      TECLAS Y MOUSE_24: 4382666363476461840
+      TECLAS Y MOUSE_25: 7094997168579899652
+      TECLAS Y MOUSE_26: -6400408395679772196
+      TECLAS Y MOUSE_27: 2997076803733584783
+      TECLAS Y MOUSE_28: 4847501184286933549
+      TECLAS Y MOUSE_3: 1906441917589027494
+      TECLAS Y MOUSE_4: 2011821877437059911
+      TECLAS Y MOUSE_5: 2489978055921049562
+      TECLAS Y MOUSE_6: -4478385441459143546
+      TECLAS Y MOUSE_7: -8414687949269745529
+      TECLAS Y MOUSE_8: 8724660333817933216
+      TECLAS Y MOUSE_9: -4767100833579012980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
