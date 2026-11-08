@@ -37,10 +37,6 @@ public class State_Machine : MonoBehaviour
 
     private IEnumerator StateMachineLoop()
     {
-        // Esperamos un frame: así todos los Awake (State_Base, etc.) ya corrieron
-        // y controlledObject / referencias ya están asignadas.
-        yield return null;
-
         while (true)
         {
             currentState.EnterState();
