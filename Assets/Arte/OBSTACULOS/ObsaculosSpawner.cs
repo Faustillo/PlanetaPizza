@@ -38,7 +38,6 @@ public class ObstacleSpawner : MonoBehaviour
 
     private void Update()
     {
-        // Hace que el spawner se mueva junto con la cámara en el eje X
         if (followCameraX && mainCamera != null)
         {
             transform.position = new Vector3(mainCamera.transform.position.x, transform.position.y, transform.position.z);
@@ -57,7 +56,15 @@ public class ObstacleSpawner : MonoBehaviour
         {
             GameObject obstacle = new GameObject("Obstacle_Item");
             obstacle.transform.SetParent(transform);
+
             obstacle.AddComponent<SpriteRenderer>();
+
+            PolygonCollider2D polyCollider = obstacle.AddComponent<PolygonCollider2D>();
+            polyCollider.isTrigger = true;
+
+            ObstacleCollisionHandler collisionHandler = obstacle.AddComponent<ObstacleCollisionHandler>();
+            collisionHandler.spawnerTransform = this.transform;
+
             obstacle.SetActive(false);
             objectPool.Add(obstacle);
         }
@@ -83,28 +90,32 @@ public class ObstacleSpawner : MonoBehaviour
         {
             if (obstacle != null && !obstacle.activeSelf)
             {
-                // 1. Asignar sprite aleatorio
                 Sprite randomSprite = obstacleSprites[Random.Range(0, obstacleSprites.Count)];
                 SpriteRenderer sr = obstacle.GetComponent<SpriteRenderer>();
                 if (sr != null) sr.sprite = randomSprite;
 
-                // 2. Calcular los límites actuales de la cámara de forma dinámica
+                PolygonCollider2D polyCollider = obstacle.GetComponent<PolygonCollider2D>();
+                if (polyCollider != null)
+                {
+                    Destroy(polyCollider);
+                    PolygonCollider2D newCollider = obstacle.AddComponent<PolygonCollider2D>();
+                    newCollider.isTrigger = true;
+                }
+
                 float cameraHeight = mainCamera.orthographicSize * 2f;
                 float cameraWidth = cameraHeight * mainCamera.aspect;
 
-                float rightEdgeX = mainCamera.transform.position.x + (cameraWidth / 2f) + 3f; // Fuera a la derecha
+                float rightEdgeX = mainCamera.transform.position.x + (cameraWidth / 2f) + 3f;
                 float minY = mainCamera.transform.position.y - (cameraHeight / 2f) + 1f;
                 float maxY = mainCamera.transform.position.y + (cameraHeight / 2f) - 1f;
 
-                // 3. Posición inicial
                 float randomY = Random.Range(minY, maxY);
                 obstacle.transform.position = new Vector3(rightEdgeX, randomY, 0f);
 
-                // 4. Escala aleatoria
                 float randomScale = Random.Range(minScale, maxScale);
                 obstacle.transform.localScale = new Vector3(randomScale, randomScale, 1f);
 
-                // 5. Activar y mover
+                obstacle.transform.SetParent(null);
                 obstacle.SetActive(true);
                 StartCoroutine(MoveAndCheckObstacle(obstacle));
                 return;
@@ -116,22 +127,54 @@ public class ObstacleSpawner : MonoBehaviour
     {
         while (obstacle != null && obstacle.activeSelf && mainCamera != null)
         {
-            // Mover hacia la izquierda de forma constante
             obstacle.transform.Translate(Vector3.left * obstacleSpeed * Time.deltaTime, Space.World);
 
-            // Calcular el límite izquierdo actual de la cámara dinámicamente
             float cameraHeight = mainCamera.orthographicSize * 2f;
             float cameraWidth = cameraHeight * mainCamera.aspect;
-            float leftEdgeX = mainCamera.transform.position.x - (cameraWidth / 2f) - 3f; // Fuera a la izquierda
+            float leftEdgeX = mainCamera.transform.position.x - (cameraWidth / 2f) - 3f;
 
-            // Si el objeto supera el borde izquierdo de la cámara, se desactiva (vuelve al pool)
             if (obstacle.transform.position.x < leftEdgeX)
             {
+                obstacle.transform.SetParent(this.transform);
                 obstacle.SetActive(false);
                 yield break;
             }
 
             yield return null;
+        }
+    }
+}
+
+/// <summary>
+/// Componente auxiliar para detectar el impacto con el Player de forma directa y segura.
+/// </summary>
+public class ObstacleCollisionHandler : MonoBehaviour
+{
+    [HideInInspector] public Transform spawnerTransform;
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            // === CAMBIA "PlayerController" por el nombre exacto del script de tu jugador ===
+            // Ejemplo: PlayerMovement, VidaJugador, etc.
+            Jugador player = other.GetComponent<Jugador>();
+
+            if (player != null)
+            {
+                player.ConsumirEnergia(10f);
+            }
+            else
+            {
+                Debug.LogWarning("El objeto con tag 'Player' no tiene asignado el script del jugador en el buscador.");
+            }
+
+            // Regresar al spawner y desactivar para reciclar en el pool
+            if (spawnerTransform != null)
+            {
+                transform.SetParent(spawnerTransform);
+            }
+            gameObject.SetActive(false);
         }
     }
 }

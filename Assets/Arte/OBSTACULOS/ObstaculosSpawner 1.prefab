@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3843428405678423800
+--- !u!1 &2034870051378047533
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,37 +8,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 6815133013289816001}
-  - component: {fileID: 1419870765658797056}
+  - component: {fileID: 6222700706597239495}
+  - component: {fileID: 4538455512571951502}
   m_Layer: 0
-  m_Name: ObstaculosSpawner
+  m_Name: ObstaculosSpawner 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &6815133013289816001
+--- !u!4 &6222700706597239495
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3843428405678423800}
+  m_GameObject: {fileID: 2034870051378047533}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.31747, y: -0.37138, z: 0}
+  m_LocalPosition: {x: -2.54985, y: -0.56897, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1419870765658797056
+--- !u!114 &4538455512571951502
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3843428405678423800}
+  m_GameObject: {fileID: 2034870051378047533}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 14663f63dacc87c42afb3e942ab061e3, type: 3}
@@ -59,3 +59,4 @@ MonoBehaviour:
   obstacleSpeed: 4
   minScale: 0.5
   maxScale: 5
+  followCameraX: 1
