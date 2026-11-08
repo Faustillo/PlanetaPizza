@@ -1,0 +1,6513 @@
+fileFormatVersion: 2
+guid: 6266db24e1dce2d4ca1e299522b0aabb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1632690942478424166
+    second: estrellas y fondo separado spritesheet_0
+  - first:
+      213: 7433229441493532578
+    second: estrellas y fondo separado spritesheet_1
+  - first:
+      213: -7624199919853396817
+    second: estrellas y fondo separado spritesheet_2
+  - first:
+      213: 882743919741902097
+    second: estrellas y fondo separado spritesheet_3
+  - first:
+      213: 7204336343502474836
+    second: estrellas y fondo separado spritesheet_4
+  - first:
+      213: 3813923105522694025
+    second: estrellas y fondo separado spritesheet_5
+  - first:
+      213: 796490836919058898
+    second: estrellas y fondo separado spritesheet_6
+  - first:
+      213: 750490091667907186
+    second: estrellas y fondo separado spritesheet_7
+  - first:
+      213: 7644123163325597109
+    second: estrellas y fondo separado spritesheet_8
+  - first:
+      213: -8948734042826195832
+    second: estrellas y fondo separado spritesheet_9
+  - first:
+      213: -6939040207427100329
+    second: estrellas y fondo separado spritesheet_10
+  - first:
+      213: -911568942241841543
+    second: estrellas y fondo separado spritesheet_11
+  - first:
+      213: -355100216943111444
+    second: estrellas y fondo separado spritesheet_12
+  - first:
+      213: 7112755439383536563
+    second: estrellas y fondo separado spritesheet_13
+  - first:
+      213: -5172267498009573416
+    second: estrellas y fondo separado spritesheet_14
+  - first:
+      213: -1273026837630887887
+    second: estrellas y fondo separado spritesheet_15
+  - first:
+      213: -7321905730157525417
+    second: estrellas y fondo separado spritesheet_16
+  - first:
+      213: -6680840831736094794
+    second: estrellas y fondo separado spritesheet_17
+  - first:
+      213: 3822295665903824418
+    second: estrellas y fondo separado spritesheet_18
+  - first:
+      213: -7737173704514469657
+    second: estrellas y fondo separado spritesheet_19
+  - first:
+      213: 7532832770025616097
+    second: estrellas y fondo separado spritesheet_20
+  - first:
+      213: -2666660835490555355
+    second: estrellas y fondo separado spritesheet_21
+  - first:
+      213: -8317281362367567850
+    second: estrellas y fondo separado spritesheet_22
+  - first:
+      213: -5020657279719049032
+    second: estrellas y fondo separado spritesheet_23
+  - first:
+      213: 1599924382791663017
+    second: estrellas y fondo separado spritesheet_24
+  - first:
+      213: 3037445027905723945
+    second: estrellas y fondo separado spritesheet_25
+  - first:
+      213: -459233492937335690
+    second: estrellas y fondo separado spritesheet_26
+  - first:
+      213: -765568777122777982
+    second: estrellas y fondo separado spritesheet_27
+  - first:
+      213: -1711415955130714469
+    second: estrellas y fondo separado spritesheet_28
+  - first:
+      213: 5043354449141515566
+    second: estrellas y fondo separado spritesheet_29
+  - first:
+      213: 8293779843731769490
+    second: estrellas y fondo separado spritesheet_30
+  - first:
+      213: -9086613909794841170
+    second: estrellas y fondo separado spritesheet_31
+  - first:
+      213: 4293801026405683598
+    second: estrellas y fondo separado spritesheet_32
+  - first:
+      213: 4113279564652387088
+    second: estrellas y fondo separado spritesheet_33
+  - first:
+      213: -1040389082807540249
+    second: estrellas y fondo separado spritesheet_34
+  - first:
+      213: -7761784139384384953
+    second: estrellas y fondo separado spritesheet_35
+  - first:
+      213: -9040705124502388812
+    second: estrellas y fondo separado spritesheet_36
+  - first:
+      213: 3930415889010859827
+    second: estrellas y fondo separado spritesheet_37
+  - first:
+      213: -6784289194555007009
+    second: estrellas y fondo separado spritesheet_38
+  - first:
+      213: 3775655700091489478
+    second: estrellas y fondo separado spritesheet_39
+  - first:
+      213: 6197053728699110777
+    second: estrellas y fondo separado spritesheet_40
+  - first:
+      213: 8320118142269403214
+    second: estrellas y fondo separado spritesheet_41
+  - first:
+      213: -7776942851970233365
+    second: estrellas y fondo separado spritesheet_42
+  - first:
+      213: 2233797797123607958
+    second: estrellas y fondo separado spritesheet_43
+  - first:
+      213: -7369491822738929369
+    second: estrellas y fondo separado spritesheet_44
+  - first:
+      213: -609817270251913378
+    second: estrellas y fondo separado spritesheet_45
+  - first:
+      213: 8198663385822061113
+    second: estrellas y fondo separado spritesheet_46
+  - first:
+      213: -2219034350689588817
+    second: estrellas y fondo separado spritesheet_47
+  - first:
+      213: -1386988662343521983
+    second: estrellas y fondo separado spritesheet_48
+  - first:
+      213: -1739639259797440020
+    second: estrellas y fondo separado spritesheet_49
+  - first:
+      213: -5000471539947603317
+    second: estrellas y fondo separado spritesheet_50
+  - first:
+      213: 3272700408423075434
+    second: estrellas y fondo separado spritesheet_51
+  - first:
+      213: -8443713341523169121
+    second: estrellas y fondo separado spritesheet_52
+  - first:
+      213: -3964916788999076309
+    second: estrellas y fondo separado spritesheet_53
+  - first:
+      213: 3148393782404583116
+    second: estrellas y fondo separado spritesheet_54
+  - first:
+      213: 5898906156569979036
+    second: estrellas y fondo separado spritesheet_55
+  - first:
+      213: 1746490193804702590
+    second: estrellas y fondo separado spritesheet_56
+  - first:
+      213: 2434953250866994068
+    second: estrellas y fondo separado spritesheet_57
+  - first:
+      213: 7845653385095266991
+    second: estrellas y fondo separado spritesheet_58
+  - first:
+      213: 454232481584001589
+    second: estrellas y fondo separado spritesheet_59
+  - first:
+      213: -5318899567092156112
+    second: estrellas y fondo separado spritesheet_60
+  - first:
+      213: 2435926245292222617
+    second: estrellas y fondo separado spritesheet_61
+  - first:
+      213: -8349544770759258082
+    second: estrellas y fondo separado spritesheet_62
+  - first:
+      213: 2786988803848838407
+    second: estrellas y fondo separado spritesheet_63
+  - first:
+      213: -6505732596464610916
+    second: estrellas y fondo separado spritesheet_64
+  - first:
+      213: -4205617945268977253
+    second: estrellas y fondo separado spritesheet_65
+  - first:
+      213: 7330984384750397415
+    second: estrellas y fondo separado spritesheet_66
+  - first:
+      213: 7597813030770481403
+    second: estrellas y fondo separado spritesheet_67
+  - first:
+      213: -964260463869958694
+    second: estrellas y fondo separado spritesheet_68
+  - first:
+      213: -1078343957663185275
+    second: estrellas y fondo separado spritesheet_69
+  - first:
+      213: -4606988436323504320
+    second: estrellas y fondo separado spritesheet_70
+  - first:
+      213: 5634604785662949718
+    second: estrellas y fondo separado spritesheet_71
+  - first:
+      213: -890395069280046589
+    second: estrellas y fondo separado spritesheet_72
+  - first:
+      213: 1584535288178647118
+    second: estrellas y fondo separado spritesheet_73
+  - first:
+      213: -6058626920060912700
+    second: estrellas y fondo separado spritesheet_74
+  - first:
+      213: 883258361637931668
+    second: estrellas y fondo separado spritesheet_75
+  - first:
+      213: 3629574573410450182
+    second: estrellas y fondo separado spritesheet_76
+  - first:
+      213: 6315440107016653146
+    second: estrellas y fondo separado spritesheet_77
+  - first:
+      213: -3583599094338754997
+    second: estrellas y fondo separado spritesheet_78
+  - first:
+      213: -1156146957146783965
+    second: estrellas y fondo separado spritesheet_79
+  - first:
+      213: -1187550024044835092
+    second: estrellas y fondo separado spritesheet_80
+  - first:
+      213: 8444906999724782849
+    second: estrellas y fondo separado spritesheet_81
+  - first:
+      213: -8940402840886093639
+    second: estrellas y fondo separado spritesheet_82
+  - first:
+      213: 3251386451988181020
+    second: estrellas y fondo separado spritesheet_83
+  - first:
+      213: -5946295681528697808
+    second: estrellas y fondo separado spritesheet_84
+  - first:
+      213: -801514025960332023
+    second: estrellas y fondo separado spritesheet_85
+  - first:
+      213: 7952878816013155763
+    second: estrellas y fondo separado spritesheet_86
+  - first:
+      213: 6881766380827504381
+    second: estrellas y fondo separado spritesheet_87
+  - first:
+      213: 4603173674189793283
+    second: estrellas y fondo separado spritesheet_88
+  - first:
+      213: -3450918599509232579
+    second: estrellas y fondo separado spritesheet_89
+  - first:
+      213: 521849208310731544
+    second: estrellas y fondo separado spritesheet_90
+  - first:
+      213: 8392550491033293866
+    second: estrellas y fondo separado spritesheet_91
+  - first:
+      213: -5442033209776139547
+    second: estrellas y fondo separado spritesheet_92
+  - first:
+      213: -2057737422476969995
+    second: estrellas y fondo separado spritesheet_93
+  - first:
+      213: -9159339435572548512
+    second: estrellas y fondo separado spritesheet_94
+  - first:
+      213: 3190696761932827113
+    second: estrellas y fondo separado spritesheet_95
+  - first:
+      213: 6943474045053797609
+    second: estrellas y fondo separado spritesheet_96
+  - first:
+      213: 3790372586738914786
+    second: estrellas y fondo separado spritesheet_97
+  - first:
+      213: 8085149231384320133
+    second: estrellas y fondo separado spritesheet_98
+  - first:
+      213: -248604534608148078
+    second: estrellas y fondo separado spritesheet_99
+  - first:
+      213: 4399759840223440796
+    second: estrellas y fondo separado spritesheet_100
+  - first:
+      213: 7118438466910608230
+    second: estrellas y fondo separado spritesheet_101
+  - first:
+      213: -5518452289891259150
+    second: estrellas y fondo separado spritesheet_102
+  - first:
+      213: -5541871858684030101
+    second: estrellas y fondo separado spritesheet_103
+  - first:
+      213: 5919167383372132636
+    second: estrellas y fondo separado spritesheet_104
+  - first:
+      213: -9043462342477381337
+    second: estrellas y fondo separado spritesheet_105
+  - first:
+      213: 1498510795698047262
+    second: estrellas y fondo separado spritesheet_106
+  - first:
+      213: -6012768779066326629
+    second: estrellas y fondo separado spritesheet_107
+  - first:
+      213: 9059926879699155258
+    second: estrellas y fondo separado spritesheet_108
+  - first:
+      213: -7362340240243708990
+    second: estrellas y fondo separado spritesheet_109
+  - first:
+      213: 4861648263915470299
+    second: estrellas y fondo separado spritesheet_110
+  - first:
+      213: -2620152589738766323
+    second: estrellas y fondo separado spritesheet_111
+  - first:
+      213: 5280755816996938513
+    second: estrellas y fondo separado spritesheet_112
+  - first:
+      213: -981836105700407366
+    second: estrellas y fondo separado spritesheet_113
+  - first:
+      213: 2972183539561972974
+    second: estrellas y fondo separado spritesheet_114
+  - first:
+      213: -239656778806355171
+    second: estrellas y fondo separado spritesheet_115
+  - first:
+      213: -8383604240737025148
+    second: estrellas y fondo separado spritesheet_116
+  - first:
+      213: 1319527052877828418
+    second: estrellas y fondo separado spritesheet_117
+  - first:
+      213: 3499688831137959813
+    second: estrellas y fondo separado spritesheet_118
+  - first:
+      213: 2008065433849733119
+    second: estrellas y fondo separado spritesheet_119
+  - first:
+      213: -6767759230841709381
+    second: estrellas y fondo separado spritesheet_120
+  - first:
+      213: 4297120842311028266
+    second: estrellas y fondo separado spritesheet_121
+  - first:
+      213: 3625949811003516595
+    second: estrellas y fondo separado spritesheet_122
+  - first:
+      213: 7608671144828789227
+    second: estrellas y fondo separado spritesheet_123
+  - first:
+      213: 4268079061110856184
+    second: estrellas y fondo separado spritesheet_124
+  - first:
+      213: -8597505607173938008
+    second: estrellas y fondo separado spritesheet_125
+  - first:
+      213: 5819906597522860971
+    second: estrellas y fondo separado spritesheet_126
+  - first:
+      213: -625569894160737860
+    second: estrellas y fondo separado spritesheet_127
+  - first:
+      213: -8900382923504740913
+    second: estrellas y fondo separado spritesheet_128
+  - first:
+      213: 1545247906830434732
+    second: estrellas y fondo separado spritesheet_129
+  - first:
+      213: -7656203960345076581
+    second: estrellas y fondo separado spritesheet_130
+  - first:
+      213: -5899916586281866715
+    second: estrellas y fondo separado spritesheet_131
+  - first:
+      213: 3660337206822796076
+    second: estrellas y fondo separado spritesheet_132
+  - first:
+      213: 4009006169705679043
+    second: estrellas y fondo separado spritesheet_133
+  - first:
+      213: -3744540660371531939
+    second: estrellas y fondo separado spritesheet_134
+  - first:
+      213: 7352994611127459844
+    second: estrellas y fondo separado spritesheet_135
+  - first:
+      213: -8546422615738527418
+    second: estrellas y fondo separado spritesheet_136
+  - first:
+      213: -2075130053991887661
+    second: estrellas y fondo separado spritesheet_137
+  - first:
+      213: 7522443676929941037
+    second: estrellas y fondo separado spritesheet_138
+  - first:
+      213: 1191891610968189673
+    second: estrellas y fondo separado spritesheet_139
+  - first:
+      213: 8831076719680690406
+    second: estrellas y fondo separado spritesheet_140
+  - first:
+      213: 2755578398865895354
+    second: estrellas y fondo separado spritesheet_141
+  - first:
+      213: 5635176700768126236
+    second: estrellas y fondo separado spritesheet_142
+  - first:
+      213: -6781355975793031700
+    second: estrellas y fondo separado spritesheet_143
+  - first:
+      213: -3138646146113288682
+    second: estrellas y fondo separado spritesheet_144
+  - first:
+      213: 1476320081943297614
+    second: estrellas y fondo separado spritesheet_145
+  - first:
+      213: -2875296503666573731
+    second: estrellas y fondo separado spritesheet_146
+  - first:
+      213: 8094716670607551251
+    second: estrellas y fondo separado spritesheet_147
+  - first:
+      213: 5574866519674374375
+    second: estrellas y fondo separado spritesheet_148
+  - first:
+      213: 4629311103151417420
+    second: estrellas y fondo separado spritesheet_149
+  - first:
+      213: -7091019582992100613
+    second: estrellas y fondo separado spritesheet_150
+  - first:
+      213: 6610144083991081925
+    second: estrellas y fondo separado spritesheet_151
+  - first:
+      213: 3358943540111322137
+    second: estrellas y fondo separado spritesheet_152
+  - first:
+      213: -4754957920621051338
+    second: estrellas y fondo separado spritesheet_153
+  - first:
+      213: 5525267681966477608
+    second: estrellas y fondo separado spritesheet_154
+  - first:
+      213: 4003520907232624923
+    second: estrellas y fondo separado spritesheet_155
+  - first:
+      213: 1555053330551844307
+    second: estrellas y fondo separado spritesheet_156
+  - first:
+      213: -1707382458876287538
+    second: estrellas y fondo separado spritesheet_157
+  - first:
+      213: 5144006303390820448
+    second: estrellas y fondo separado spritesheet_158
+  - first:
+      213: 7614216735089038310
+    second: estrellas y fondo separado spritesheet_159
+  - first:
+      213: -2443941342521681155
+    second: estrellas y fondo separado spritesheet_160
+  - first:
+      213: -9149114403844655734
+    second: estrellas y fondo separado spritesheet_161
+  - first:
+      213: 2588703315721574183
+    second: estrellas y fondo separado spritesheet_162
+  - first:
+      213: 7120351501909453538
+    second: estrellas y fondo separado spritesheet_163
+  - first:
+      213: -7386190523909650221
+    second: estrellas y fondo separado spritesheet_164
+  - first:
+      213: -2700202277221498979
+    second: estrellas y fondo separado spritesheet_165
+  - first:
+      213: 5876243775718409242
+    second: estrellas y fondo separado spritesheet_166
+  - first:
+      213: -2480504690056628255
+    second: estrellas y fondo separado spritesheet_167
+  - first:
+      213: 5680322773417352940
+    second: estrellas y fondo separado spritesheet_168
+  - first:
+      213: -6543971332977885639
+    second: estrellas y fondo separado spritesheet_169
+  - first:
+      213: -6121121053883163367
+    second: estrellas y fondo separado spritesheet_170
+  - first:
+      213: -5245489029280067028
+    second: estrellas y fondo separado spritesheet_171
+  - first:
+      213: 2217482160463262531
+    second: estrellas y fondo separado spritesheet_172
+  - first:
+      213: 8934469109721371712
+    second: estrellas y fondo separado spritesheet_173
+  - first:
+      213: -3469780361340385314
+    second: estrellas y fondo separado spritesheet_174
+  - first:
+      213: 9007420924260025207
+    second: estrellas y fondo separado spritesheet_175
+  - first:
+      213: -950878720710914746
+    second: estrellas y fondo separado spritesheet_176
+  - first:
+      213: -3342624636348559815
+    second: estrellas y fondo separado spritesheet_177
+  - first:
+      213: 4677366410680422813
+    second: estrellas y fondo separado spritesheet_178
+  - first:
+      213: -5461590415924035063
+    second: estrellas y fondo separado spritesheet_179
+  - first:
+      213: -8977998902790283485
+    second: estrellas y fondo separado spritesheet_180
+  - first:
+      213: 457808202466316596
+    second: estrellas y fondo separado spritesheet_181
+  - first:
+      213: -4901267411857264358
+    second: estrellas y fondo separado spritesheet_182
+  - first:
+      213: 5996456251735861888
+    second: estrellas y fondo separado spritesheet_183
+  - first:
+      213: -1778941522412833914
+    second: estrellas y fondo separado spritesheet_184
+  - first:
+      213: 4465352633316199158
+    second: estrellas y fondo separado spritesheet_185
+  - first:
+      213: 8656106033054595253
+    second: estrellas y fondo separado spritesheet_186
+  - first:
+      213: -2433754455320401293
+    second: estrellas y fondo separado spritesheet_187
+  - first:
+      213: 8850689448423942122
+    second: estrellas y fondo separado spritesheet_188
+  - first:
+      213: -521156926362550563
+    second: estrellas y fondo separado spritesheet_189
+  - first:
+      213: -7215945563744299589
+    second: estrellas y fondo separado spritesheet_190
+  - first:
+      213: 7919943030862571681
+    second: estrellas y fondo separado spritesheet_191
+  - first:
+      213: 7936161390076235572
+    second: estrellas y fondo separado spritesheet_192
+  - first:
+      213: 7173274206379935578
+    second: estrellas y fondo separado spritesheet_193
+  - first:
+      213: 4240488025665321320
+    second: estrellas y fondo separado spritesheet_194
+  - first:
+      213: 9127336266890259413
+    second: estrellas y fondo separado spritesheet_195
+  - first:
+      213: 1443416649583528049
+    second: estrellas y fondo separado spritesheet_196
+  - first:
+      213: -5854010142982784749
+    second: estrellas y fondo separado spritesheet_197
+  - first:
+      213: -5374762521234867804
+    second: estrellas y fondo separado spritesheet_198
+  - first:
+      213: 7198587066106852014
+    second: estrellas y fondo separado spritesheet_199
+  - first:
+      213: -7351605230536958946
+    second: estrellas y fondo separado spritesheet_200
+  - first:
+      213: -3623676519389211270
+    second: estrellas y fondo separado spritesheet_201
+  - first:
+      213: -6617808829842101093
+    second: estrellas y fondo separado spritesheet_202
+  - first:
+      213: 2959359344624782969
+    second: estrellas y fondo separado spritesheet_203
+  - first:
+      213: -4871436969001696206
+    second: estrellas y fondo separado spritesheet_204
+  - first:
+      213: 3395875057659353236
+    second: estrellas y fondo separado spritesheet_205
+  - first:
+      213: 392392805789735480
+    second: estrellas y fondo separado spritesheet_206
+  - first:
+      213: -7322370423494770129
+    second: estrellas y fondo separado spritesheet_207
+  - first:
+      213: -3073697482622219400
+    second: estrellas y fondo separado spritesheet_208
+  - first:
+      213: -4417106507377544720
+    second: estrellas y fondo separado spritesheet_209
+  - first:
+      213: 8759984898247008012
+    second: estrellas y fondo separado spritesheet_210
+  - first:
+      213: -2916253418135315049
+    second: estrellas y fondo separado spritesheet_211
+  - first:
+      213: 435661445661372538
+    second: estrellas y fondo separado spritesheet_212
+  - first:
+      213: 9124889862994194309
+    second: estrellas y fondo separado spritesheet_213
+  - first:
+      213: -2330584480545250516
+    second: estrellas y fondo separado spritesheet_214
+  - first:
+      213: -2584228417958447580
+    second: estrellas y fondo separado spritesheet_215
+  - first:
+      213: -4098916585384439365
+    second: estrellas y fondo separado spritesheet_216
+  - first:
+      213: 2122132719999441145
+    second: estrellas y fondo separado spritesheet_217
+  - first:
+      213: 9971437315087951
+    second: estrellas y fondo separado spritesheet_218
+  - first:
+      213: 6775049733649181717
+    second: estrellas y fondo separado spritesheet_219
+  - first:
+      213: -68427441769369239
+    second: estrellas y fondo separado spritesheet_220
+  - first:
+      213: 7028151215653202139
+    second: estrellas y fondo separado spritesheet_221
+  - first:
+      213: 5494155669962389814
+    second: estrellas y fondo separado spritesheet_222
+  - first:
+      213: -5528024959468705622
+    second: estrellas y fondo separado spritesheet_223
+  - first:
+      213: -4055169655044780412
+    second: estrellas y fondo separado spritesheet_224
+  - first:
+      213: -1194622220050817872
+    second: estrellas y fondo separado spritesheet_225
+  - first:
+      213: 6246815157268875369
+    second: estrellas y fondo separado spritesheet_226
+  - first:
+      213: -1448141776846368399
+    second: estrellas y fondo separado spritesheet_227
+  - first:
+      213: -4385003280236410734
+    second: estrellas y fondo separado spritesheet_228
+  - first:
+      213: 7845498833074823947
+    second: estrellas y fondo separado spritesheet_229
+  - first:
+      213: -7152514576403273972
+    second: estrellas y fondo separado spritesheet_230
+  - first:
+      213: 2586775992402368934
+    second: estrellas y fondo separado spritesheet_231
+  - first:
+      213: 9042436301597859394
+    second: estrellas y fondo separado spritesheet_232
+  - first:
+      213: -657532354237946020
+    second: estrellas y fondo separado spritesheet_233
+  - first:
+      213: -8464017102262691646
+    second: estrellas y fondo separado spritesheet_234
+  - first:
+      213: -6726203029273756568
+    second: estrellas y fondo separado spritesheet_235
+  - first:
+      213: -2810728423320964722
+    second: estrellas y fondo separado spritesheet_236
+  - first:
+      213: 927989627045099713
+    second: estrellas y fondo separado spritesheet_237
+  - first:
+      213: -7837216801122997398
+    second: estrellas y fondo separado spritesheet_238
+  - first:
+      213: 7419941581051980695
+    second: estrellas y fondo separado spritesheet_239
+  - first:
+      213: 5585826540226643003
+    second: estrellas y fondo separado spritesheet_240
+  - first:
+      213: 4050301438126936948
+    second: estrellas y fondo separado spritesheet_241
+  - first:
+      213: -2245849039269923003
+    second: estrellas y fondo separado spritesheet_242
+  - first:
+      213: -5899007183779776949
+    second: estrellas y fondo separado spritesheet_243
+  - first:
+      213: 6627032372812772818
+    second: estrellas y fondo separado spritesheet_244
+  - first:
+      213: 3906561148913771947
+    second: estrellas y fondo separado spritesheet_245
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1011
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6689c6603cb78a610800000000000000
+      internalID: 1632690942478424166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 985
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af723a4bc2282760800000000000000
+      internalID: 7433229441493532578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 974
+        width: 124
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac93905196613690800000000000000
+      internalID: -7624199919853396817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 973
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d1ad30be2204c00800000000000000
+      internalID: 882743919741902097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1051
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ec6e4fbb1faf360800000000000000
+      internalID: 7204336343502474836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 962
+        width: 141
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987b5518bd6cde430800000000000000
+      internalID: 3813923105522694025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1012
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d10a693234bd0b00800000000000000
+      internalID: 796490836919058898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1059
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272e05913c64a6a00800000000000000
+      internalID: 750490091667907186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 962
+        width: 124
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b58b594481651a60800000000000000
+      internalID: 7644123163325597109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1049
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c36ebecc5bfc380800000000000000
+      internalID: -8948734042826195832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1039
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751a72a22b393bf90800000000000000
+      internalID: -6939040207427100329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 905
+        width: 107
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e756170e47953f0800000000000000
+      internalID: -911568942241841543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 974
+        width: 124
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2117deb3e621bf0800000000000000
+      internalID: -355100216943111444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 0
+        width: 3897
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3eeaa136595b260800000000000000
+      internalID: 7112755439383536563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1002
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d747d94d1a6838b0800000000000000
+      internalID: -5172267498009573416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1029
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d87106dc455ee0800000000000000
+      internalID: -1273026837630887887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 977
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564013188d536a90800000000000000
+      internalID: -7321905730157525417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 990
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfd17ff8a2e843a0800000000000000
+      internalID: -6680840831736094794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 973
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e66b028a58b0530800000000000000
+      internalID: 3822295665903824418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1017
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e00ce0528900a490800000000000000
+      internalID: -7737173704514469657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1011
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e27cc16e7ff98860800000000000000
+      internalID: 7532832770025616097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1010
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a9324491e1efad0800000000000000
+      internalID: -2666660835490555355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1019
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618aa13faa4139c80800000000000000
+      internalID: -8317281362367567850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1029
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8fd5ffdca035ab0800000000000000
+      internalID: -5020657279719049032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1004
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad78c7dfb2143610800000000000000
+      internalID: 1599924382791663017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1005
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ed819e82c272a20800000000000000
+      internalID: 3037445027905723945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 992
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c1280429970a9f0800000000000000
+      internalID: -459233492937335690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 954
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284777cd0472065f0800000000000000
+      internalID: -765568777122777982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 965
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b967f7b9144df38e0800000000000000
+      internalID: -1711415955130714469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 993
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25477196289df540800000000000000
+      internalID: 5043354449141515566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 929
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2984de653dc691370800000000000000
+      internalID: 8293779843731769490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 898
+        width: 15
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead1e8fbaccd5e180800000000000000
+      internalID: -9086613909794841170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 979
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e815e13b845a69b30800000000000000
+      internalID: 4293801026405683598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 898
+        width: 15
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b9af098fd451930800000000000000
+      internalID: 4113279564652387088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 966
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ef0334abcf81f0800000000000000
+      internalID: -1040389082807540249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 962
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429bbce27a984490800000000000000
+      internalID: -7761784139384384953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 952
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf3bf6c696f88280800000000000000
+      internalID: -9040705124502388812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 886
+        width: 15
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f1b044d64ab8630800000000000000
+      internalID: 3930415889010859827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 967
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf17091cec59d1a0800000000000000
+      internalID: -6784289194555007009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 962
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc12edad2d56430800000000000000
+      internalID: 3775655700091489478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 905
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975de19688b500650800000000000000
+      internalID: 6197053728699110777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 950
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4030475e5ff67370800000000000000
+      internalID: 8320118142269403214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 940
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb0dcd1eafb21490800000000000000
+      internalID: -7776942851970233365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 954
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4a95e24b000f10800000000000000
+      internalID: 2233797797123607958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 943
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72900828b3e4ab990800000000000000
+      internalID: -7369491822738929369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 930
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f7cb47c6e7987f0800000000000000
+      internalID: -609817270251913378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 945
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932ece839e087c170800000000000000
+      internalID: 8198663385822061113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 893
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9e1c6d3086431e0800000000000000
+      internalID: -2219034350689588817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 945
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1492581092d60cce0800000000000000
+      internalID: -1386988662343521983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 901
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9337a6f4f8bd7e0800000000000000
+      internalID: -1739639259797440020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 931
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8af8f7c0a1ca9ab0800000000000000
+      internalID: -5000471539947603317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 918
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e45549ea7fa6d20800000000000000
+      internalID: 3272700408423075434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 933
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f84dd377e1da80800000000000000
+      internalID: -8443713341523169121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 901
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b264abbff29c9f8c0800000000000000
+      internalID: -3964916788999076309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 883
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce0645d67751bb20800000000000000
+      internalID: 3148393782404583116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 919
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98e7b945ef1dd150800000000000000
+      internalID: 5898906156569979036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 871
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73be65f397cc3810800000000000000
+      internalID: 1746490193804702590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 889
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b1c9aa411bac120800000000000000
+      internalID: 2434953250866994068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 907
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c1798f2c51ec60800000000000000
+      internalID: 7845653385095266991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 822
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532324e0902cd4600800000000000000
+      internalID: 454232481584001589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 815
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393e7346097f26b0800000000000000
+      internalID: -5318899567092156112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 875
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998a1b593062ec120800000000000000
+      internalID: 2435926245292222617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 792
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e109caec445702c80800000000000000
+      internalID: -8349544770759258082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 865
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d966e0d8f5da620800000000000000
+      internalID: 2786988803848838407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 783
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c911c002caef6b5a0800000000000000
+      internalID: -6505732596464610916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 827
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b910c37d2c4a2a5c0800000000000000
+      internalID: -4205617945268977253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 803
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7abfae473ecb560800000000000000
+      internalID: 7330984384750397415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 863
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf898e052bad07960800000000000000
+      internalID: 7597813030770481403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 809
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5e31c87324e92f0800000000000000
+      internalID: -964260463869958694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 849
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5860cc142e3f801f0800000000000000
+      internalID: -1078343957663185275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 841
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fea901d60b010c0800000000000000
+      internalID: -4606988436323504320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 810
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659f72bf233223e40800000000000000
+      internalID: 5634604785662949718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 803
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302bdc9e66ea4a3f0800000000000000
+      internalID: -890395069280046589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 863
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40a5f903766df510800000000000000
+      internalID: 1584535288178647118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 780
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb762b8aee6beba0800000000000000
+      internalID: -6058626920060912700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 853
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a825adcc6f14c00800000000000000
+      internalID: 883258361637931668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 771
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b7bed18d6de5230800000000000000
+      internalID: 3629574573410450182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 815
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a598bf21153f4a750800000000000000
+      internalID: 6315440107016653146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 851
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46e6844c9f744ec0800000000000000
+      internalID: -3583599094338754997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 866
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ffd1fc77a84ffe0800000000000000
+      internalID: -1156146957146783965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 784
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee0dc78b89f48fe0800000000000000
+      internalID: -1187550024044835092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 837
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1053ec75c26523570800000000000000
+      internalID: 8444906999724782849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 829
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b857180cfe4de380800000000000000
+      internalID: -8940402840886093639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 754
+        width: 134
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10f54260ce3f1d20800000000000000
+      internalID: 3251386451988181020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 865
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cea0d15938a7da0800000000000000
+      internalID: -5946295681528697808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 792
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90524207d3370e4f0800000000000000
+      internalID: -801514025960332023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 756
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd7132a52d4e5e60800000000000000
+      internalID: 7952878816013155763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 791
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfee27cef02f08f50800000000000000
+      internalID: 6881766380827504381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 712
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30823896112c1ef30800000000000000
+      internalID: 4603173674189793283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 700
+        width: 135
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b67741dfdb10d0800000000000000
+      internalID: -3450918599509232579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 620
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8131eaf071bfd3700800000000000000
+      internalID: 521849208310731544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 750
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24d199b434587470800000000000000
+      internalID: 8392550491033293866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 699
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e21a6bf0a30a74b0800000000000000
+      internalID: -5442033209776139547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 744
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f77b3477b27173e0800000000000000
+      internalID: -2057737422476969995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 688
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca875cf4d73e080800000000000000
+      internalID: -9159339435572548512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 722
+        width: 95
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9cef8ccc1a74c20800000000000000
+      internalID: 3190696761932827113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 686
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4839a1bdc2c5060800000000000000
+      internalID: 6943474045053797609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 726
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e593fe09cb1a9430800000000000000
+      internalID: 3790372586738914786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 744
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5885fa49368343070800000000000000
+      internalID: 8085149231384320133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 700
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29941213e77cc8cf0800000000000000
+      internalID: -248604534608148078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 688
+        width: 135
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f2c8583461f0d30800000000000000
+      internalID: 4399759840223440796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bdeaf0216c9c260800000000000000
+      internalID: 7118438466910608230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 732
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc271f51e48a63b0800000000000000
+      internalID: -5518452289891259150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 676
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63976818e05713b0800000000000000
+      internalID: -5541871858684030101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 728
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1179f3cf5b152250800000000000000
+      internalID: 5919167383372132636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 714
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7218301f9ea2f7280800000000000000
+      internalID: -9043462342477381337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 744
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e198ba511a7cbc410800000000000000
+      internalID: 1498510795698047262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 699
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91413707aa5e8ca0800000000000000
+      internalID: -6012768779066326629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 620
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a393b7bde735bbd70800000000000000
+      internalID: 9059926879699155258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 750
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba5b01f86b3d990800000000000000
+      internalID: -7362340240243708990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 683
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd7391865b087340800000000000000
+      internalID: 4861648263915470299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 688
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d001d4f0a1953abd0800000000000000
+      internalID: -2620152589738766323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 608
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1132ea9df63094940800000000000000
+      internalID: 5280755816996938513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 687
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7031c8341df52f0800000000000000
+      internalID: -981836105700407366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 674
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4cad29e215f3920800000000000000
+      internalID: 2972183539561972974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 660
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b9b3fed619cacf0800000000000000
+      internalID: -239656778806355171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 675
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483496d7c5477ab80800000000000000
+      internalID: -8383604240737025148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 671
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2411d4a0dd6ef4210800000000000000
+      internalID: 1319527052877828418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 676
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f41642374619030800000000000000
+      internalID: 3499688831137959813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 529
+        width: 141
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff9a567fd41edb10800000000000000
+      internalID: 2008065433849733119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 612
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc1f4036d61412a0800000000000000
+      internalID: -6767759230841709381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 659
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e40e293a072ab30800000000000000
+      internalID: 4297120842311028266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 648
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6624a5426f15230800000000000000
+      internalID: 3625949811003516595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 600
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e840081e679960800000000000000
+      internalID: 7608671144828789227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 541
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f99bc6fa434b3b30800000000000000
+      internalID: 4268079061110856184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 600
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4e7f9a3368fa880800000000000000
+      internalID: -8597505607173938008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 647
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6d4b173674c050800000000000000
+      internalID: 5819906597522860971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 553
+        width: 139
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9de54ee778157f0800000000000000
+      internalID: -625569894160737860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 620
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc51c8723ec7b7480800000000000000
+      internalID: -8900382923504740913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 588
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14b80c8c2d17510800000000000000
+      internalID: 1545247906830434732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 608
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c51b7ff03bfb590800000000000000
+      internalID: -7656203960345076581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 612
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aeb36bf194f1ea0800000000000000
+      internalID: -5899916586281866715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 601
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b71dadb412cc230800000000000000
+      internalID: 3660337206822796076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 553
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c808a7eed9d2a730800000000000000
+      internalID: 4009006169705679043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 600
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d575c8bdb18b80cc0800000000000000
+      internalID: -3744540660371531939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 589
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4002d9714a51b0660800000000000000
+      internalID: 7352994611127459844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 562
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6415a8079e1056980800000000000000
+      internalID: -8546422615738527418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 589
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc831dd538a333e0800000000000000
+      internalID: -2075130053991887661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 541
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eda462ba6156860800000000000000
+      internalID: 7522443676929941037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 531
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae682fa137a8010800000000000000
+      internalID: 1191891610968189673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 433
+        width: 85
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e81acccc794e8a70800000000000000
+      internalID: 8831076719680690406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf242f34f7cd3620800000000000000
+      internalID: 2755578398865895354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 550
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1587d75a5b243e40800000000000000
+      internalID: 5635176700768126236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 445
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5426f4ba8c3e1a0800000000000000
+      internalID: -6781355975793031700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 455
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616c44995f94174d0800000000000000
+      internalID: -3138646146113288682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 475
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e710bea41fc7410800000000000000
+      internalID: 1476320081943297614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 518
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ef70b5015e818d0800000000000000
+      internalID: -2875296503666573731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 431
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31beefc9ce5365070800000000000000
+      internalID: 8094716670607551251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 518
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8c86f0097ed5d40800000000000000
+      internalID: 5574866519674374375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 462
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ac12dbed9e3040800000000000000
+      internalID: 4629311103151417420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 530
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2da645243a79d90800000000000000
+      internalID: -7091019582992100613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 443
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33078b503fbbb50800000000000000
+      internalID: 6610144083991081925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 519
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cade07a5d5d9e20800000000000000
+      internalID: 3358943540111322137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 463
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632c37bc6fef20eb0800000000000000
+      internalID: -4754957920621051338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 506
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821de80cea1bdac40800000000000000
+      internalID: 5525267681966477608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 419
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b114376bd0d5f8730800000000000000
+      internalID: 4003520907232624923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 506
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dda45ed3c8a49510800000000000000
+      internalID: 1555053330551844307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 325
+        width: 71
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec522f223b82e48e0800000000000000
+      internalID: -1707382458876287538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 536
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068eaf39a7e236740800000000000000
+      internalID: 5144006303390820448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 475
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e311d957c12ba960800000000000000
+      internalID: 7614216735089038310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 531
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa9a1b2c40651ed0800000000000000
+      internalID: -2443941342521681155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 427
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85fd6d7ce0d70180800000000000000
+      internalID: -9149114403844655734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 366
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d57a33fbece320800000000000000
+      internalID: 2588703315721574183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 354
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea6b3b37f190d260800000000000000
+      internalID: 7120351501909453538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 367
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8420b2adafe7990800000000000000
+      internalID: -7386190523909650221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 296
+        width: 77
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ff28cc554f68ad0800000000000000
+      internalID: -2700202277221498979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 415
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14cb41949c9c8150800000000000000
+      internalID: 5876243775718409242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 399
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7fb7d602a739dd0800000000000000
+      internalID: -2480504690056628255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 378
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5a1f777f84de40800000000000000
+      internalID: 5680322773417352940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 403
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e738d7eb42f25a0800000000000000
+      internalID: -6543971332977885639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 355
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d112425d86d0ba0800000000000000
+      internalID: -6121121053883163367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 284
+        width: 77
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c229d8805874437b0800000000000000
+      internalID: -5245489029280067028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 378
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343bd26b64416ce10800000000000000
+      internalID: 2217482160463262531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 238
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04494a5815c9dfb70800000000000000
+      internalID: 8934469109721371712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 356
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70ea1252dd8dfc0800000000000000
+      internalID: -3469780361340385314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 364
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77380f47b99c00d70800000000000000
+      internalID: 9007420924260025207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 387
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d4c8b67dccdc2f0800000000000000
+      internalID: -950878720710914746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 366
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e89fc6a9c9c91d0800000000000000
+      internalID: -3342624636348559815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 391
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9153f008f759e040800000000000000
+      internalID: 4677366410680422813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 230
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9028b2614788434b0800000000000000
+      internalID: -5461590415924035063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 332
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f965db09db76380800000000000000
+      internalID: -8977998902790283485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 226
+        width: 118
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d34372267a5600800000000000000
+      internalID: 457808202466316596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 344
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11bc07c1433bfbb0800000000000000
+      internalID: -4901267411857264358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 269
+        width: 117
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ae2ebb031b73350800000000000000
+      internalID: 5996456251735861888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 320
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683f3605c1eef47e0800000000000000
+      internalID: -1778941522412833914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 367
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6facaa1cf8e18fd30800000000000000
+      internalID: 4465352633316199158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 230
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b556339aa02870800000000000000
+      internalID: 8656106033054595253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 351
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a6a1ca731993ed0800000000000000
+      internalID: -2433754455320401293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 320
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae76b9e0927f3da70800000000000000
+      internalID: 8850689448423942122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 308
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddefce3698a74c8f0800000000000000
+      internalID: -521156926362550563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 278
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb51772ddbfcbdb90800000000000000
+      internalID: -7215945563744299589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 296
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8e4e3993a49ed60800000000000000
+      internalID: 7919943030862571681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f0aa79cb8e22e60800000000000000
+      internalID: 7936161390076235572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 284
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a578fb392e69c8360800000000000000
+      internalID: 7173274206379935578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 266
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869341c646d39da30800000000000000
+      internalID: 4240488025665321320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 284
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dba88dd9ffcaae70800000000000000
+      internalID: 9127336266890259413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 254
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1788f459bcb080410800000000000000
+      internalID: 1443416649583528049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 272
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3193af37ac062cea0800000000000000
+      internalID: -5854010142982784749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a976b1b6f10965b0800000000000000
+      internalID: -5374762521234867804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea235000cc486e360800000000000000
+      internalID: 7198587066106852014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cd0f84ef9d9f990800000000000000
+      internalID: -7351605230536958946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 233
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75d1e8976d16bdc0800000000000000
+      internalID: -3623676519389211270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 235
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c61d19ee1d824a0800000000000000
+      internalID: -6617808829842101093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 233
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec71305a1c11920800000000000000
+      internalID: 2959359344624782969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 13
+        width: 133
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234c2fcf2ed256cb0800000000000000
+      internalID: -4871436969001696206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 221
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49815617f52902f20800000000000000
+      internalID: 3395875057659353236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a14898d2f027500800000000000000
+      internalID: 392392805789735480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 221
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2284c935e6b16a90800000000000000
+      internalID: -7322370423494770129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 57
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b4a49bc680855d0800000000000000
+      internalID: -3073697482622219400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 162
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f1bcc80943b2c0800000000000000
+      internalID: -4417106507377544720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 33
+        width: 133
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f9cc14ad7b19970800000000000000
+      internalID: 8759984898247008012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 209
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d960997f26787d0800000000000000
+      internalID: -2916253418135315049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 211
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70bafec6c7cb0600800000000000000
+      internalID: 435661445661372538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fe4521cfe12ae70800000000000000
+      internalID: 9124889862994194309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23ef0e43c918afd0800000000000000
+      internalID: -2330584480545250516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 25
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426fd1912f9f22cd0800000000000000
+      internalID: -2584228417958447580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 125
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb114342519bd17c0800000000000000
+      internalID: -4098916585384439365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 155
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8dccd1774537d10800000000000000
+      internalID: 2122132719999441145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 140
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed01b28fc632000800000000000000
+      internalID: 9971437315087951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 13
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ca3c546dfc50e50800000000000000
+      internalID: 6775049733649181717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 44
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961b270ba95ec0ff0800000000000000
+      internalID: -68427441769369239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 129
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd82dbc3b42098160800000000000000
+      internalID: 7028151215653202139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6397ec8f8792f3c40800000000000000
+      internalID: 5494155669962389814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 103
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ef5d86928843b0800000000000000
+      internalID: -5528024959468705622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ecc171fa429b7c0800000000000000
+      internalID: -4055169655044780412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 140
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc15159b69db6fe0800000000000000
+      internalID: -1194622220050817872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 45
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968898ad94521b650800000000000000
+      internalID: 6246815157268875369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 13
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1715baef9ba27ebe0800000000000000
+      internalID: -1448141776846368399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 150
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2980696dfb65523c0800000000000000
+      internalID: -4385003280236410734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 18
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03aa271f9fc0ec60800000000000000
+      internalID: 7845498833074823947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07edae63e92dbc90800000000000000
+      internalID: -7152514576403273972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 143
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9d6ac4f0316e320800000000000000
+      internalID: 2586775992402368934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 128
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e56dc48ef2d7d70800000000000000
+      internalID: 9042436301597859394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57225dbec9ffd6f0800000000000000
+      internalID: -657532354237946020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 32
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c81dce2a45c98a80800000000000000
+      internalID: -8464017102262691646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 117
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c3bf85bf9b7a2a0800000000000000
+      internalID: -6726203029273756568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e813cdf04694ef8d0800000000000000
+      internalID: -2810728423320964722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 91
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8354b26a1e0ec00800000000000000
+      internalID: 927989627045099713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 13
+        width: 56
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b275db7dc9c3390800000000000000
+      internalID: -7837216801122997398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 155
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79be0c03e8de8f660800000000000000
+      internalID: 7419941581051980695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 125
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b348823b4a7d48d40800000000000000
+      internalID: 5585826540226643003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_241
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 7
+        width: 89
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4735fc4d2bf853830800000000000000
+      internalID: 4050301438126936948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_242
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 6
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547f923a23425d0e0800000000000000
+      internalID: -2245849039269923003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_243
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 6
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46345b7834822ea0800000000000000
+      internalID: -5899007183779776949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_244
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f480e4d2f7fb50800000000000000
+      internalID: 6627032372812772818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrellas y fondo separado spritesheet_245
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 7
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e856caa4e63630800000000000000
+      internalID: 3906561148913771947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      estrellas y fondo separado spritesheet_0: 1632690942478424166
+      estrellas y fondo separado spritesheet_1: 7433229441493532578
+      estrellas y fondo separado spritesheet_10: -6939040207427100329
+      estrellas y fondo separado spritesheet_100: 4399759840223440796
+      estrellas y fondo separado spritesheet_101: 7118438466910608230
+      estrellas y fondo separado spritesheet_102: -5518452289891259150
+      estrellas y fondo separado spritesheet_103: -5541871858684030101
+      estrellas y fondo separado spritesheet_104: 5919167383372132636
+      estrellas y fondo separado spritesheet_105: -9043462342477381337
+      estrellas y fondo separado spritesheet_106: 1498510795698047262
+      estrellas y fondo separado spritesheet_107: -6012768779066326629
+      estrellas y fondo separado spritesheet_108: 9059926879699155258
+      estrellas y fondo separado spritesheet_109: -7362340240243708990
+      estrellas y fondo separado spritesheet_11: -911568942241841543
+      estrellas y fondo separado spritesheet_110: 4861648263915470299
+      estrellas y fondo separado spritesheet_111: -2620152589738766323
+      estrellas y fondo separado spritesheet_112: 5280755816996938513
+      estrellas y fondo separado spritesheet_113: -981836105700407366
+      estrellas y fondo separado spritesheet_114: 2972183539561972974
+      estrellas y fondo separado spritesheet_115: -239656778806355171
+      estrellas y fondo separado spritesheet_116: -8383604240737025148
+      estrellas y fondo separado spritesheet_117: 1319527052877828418
+      estrellas y fondo separado spritesheet_118: 3499688831137959813
+      estrellas y fondo separado spritesheet_119: 2008065433849733119
+      estrellas y fondo separado spritesheet_12: -355100216943111444
+      estrellas y fondo separado spritesheet_120: -6767759230841709381
+      estrellas y fondo separado spritesheet_121: 4297120842311028266
+      estrellas y fondo separado spritesheet_122: 3625949811003516595
+      estrellas y fondo separado spritesheet_123: 7608671144828789227
+      estrellas y fondo separado spritesheet_124: 4268079061110856184
+      estrellas y fondo separado spritesheet_125: -8597505607173938008
+      estrellas y fondo separado spritesheet_126: 5819906597522860971
+      estrellas y fondo separado spritesheet_127: -625569894160737860
+      estrellas y fondo separado spritesheet_128: -8900382923504740913
+      estrellas y fondo separado spritesheet_129: 1545247906830434732
+      estrellas y fondo separado spritesheet_13: 7112755439383536563
+      estrellas y fondo separado spritesheet_130: -7656203960345076581
+      estrellas y fondo separado spritesheet_131: -5899916586281866715
+      estrellas y fondo separado spritesheet_132: 3660337206822796076
+      estrellas y fondo separado spritesheet_133: 4009006169705679043
+      estrellas y fondo separado spritesheet_134: -3744540660371531939
+      estrellas y fondo separado spritesheet_135: 7352994611127459844
+      estrellas y fondo separado spritesheet_136: -8546422615738527418
+      estrellas y fondo separado spritesheet_137: -2075130053991887661
+      estrellas y fondo separado spritesheet_138: 7522443676929941037
+      estrellas y fondo separado spritesheet_139: 1191891610968189673
+      estrellas y fondo separado spritesheet_14: -5172267498009573416
+      estrellas y fondo separado spritesheet_140: 8831076719680690406
+      estrellas y fondo separado spritesheet_141: 2755578398865895354
+      estrellas y fondo separado spritesheet_142: 5635176700768126236
+      estrellas y fondo separado spritesheet_143: -6781355975793031700
+      estrellas y fondo separado spritesheet_144: -3138646146113288682
+      estrellas y fondo separado spritesheet_145: 1476320081943297614
+      estrellas y fondo separado spritesheet_146: -2875296503666573731
+      estrellas y fondo separado spritesheet_147: 8094716670607551251
+      estrellas y fondo separado spritesheet_148: 5574866519674374375
+      estrellas y fondo separado spritesheet_149: 4629311103151417420
+      estrellas y fondo separado spritesheet_15: -1273026837630887887
+      estrellas y fondo separado spritesheet_150: -7091019582992100613
+      estrellas y fondo separado spritesheet_151: 6610144083991081925
+      estrellas y fondo separado spritesheet_152: 3358943540111322137
+      estrellas y fondo separado spritesheet_153: -4754957920621051338
+      estrellas y fondo separado spritesheet_154: 5525267681966477608
+      estrellas y fondo separado spritesheet_155: 4003520907232624923
+      estrellas y fondo separado spritesheet_156: 1555053330551844307
+      estrellas y fondo separado spritesheet_157: -1707382458876287538
+      estrellas y fondo separado spritesheet_158: 5144006303390820448
+      estrellas y fondo separado spritesheet_159: 7614216735089038310
+      estrellas y fondo separado spritesheet_16: -7321905730157525417
+      estrellas y fondo separado spritesheet_160: -2443941342521681155
+      estrellas y fondo separado spritesheet_161: -9149114403844655734
+      estrellas y fondo separado spritesheet_162: 2588703315721574183
+      estrellas y fondo separado spritesheet_163: 7120351501909453538
+      estrellas y fondo separado spritesheet_164: -7386190523909650221
+      estrellas y fondo separado spritesheet_165: -2700202277221498979
+      estrellas y fondo separado spritesheet_166: 5876243775718409242
+      estrellas y fondo separado spritesheet_167: -2480504690056628255
+      estrellas y fondo separado spritesheet_168: 5680322773417352940
+      estrellas y fondo separado spritesheet_169: -6543971332977885639
+      estrellas y fondo separado spritesheet_17: -6680840831736094794
+      estrellas y fondo separado spritesheet_170: -6121121053883163367
+      estrellas y fondo separado spritesheet_171: -5245489029280067028
+      estrellas y fondo separado spritesheet_172: 2217482160463262531
+      estrellas y fondo separado spritesheet_173: 8934469109721371712
+      estrellas y fondo separado spritesheet_174: -3469780361340385314
+      estrellas y fondo separado spritesheet_175: 9007420924260025207
+      estrellas y fondo separado spritesheet_176: -950878720710914746
+      estrellas y fondo separado spritesheet_177: -3342624636348559815
+      estrellas y fondo separado spritesheet_178: 4677366410680422813
+      estrellas y fondo separado spritesheet_179: -5461590415924035063
+      estrellas y fondo separado spritesheet_18: 3822295665903824418
+      estrellas y fondo separado spritesheet_180: -8977998902790283485
+      estrellas y fondo separado spritesheet_181: 457808202466316596
+      estrellas y fondo separado spritesheet_182: -4901267411857264358
+      estrellas y fondo separado spritesheet_183: 5996456251735861888
+      estrellas y fondo separado spritesheet_184: -1778941522412833914
+      estrellas y fondo separado spritesheet_185: 4465352633316199158
+      estrellas y fondo separado spritesheet_186: 8656106033054595253
+      estrellas y fondo separado spritesheet_187: -2433754455320401293
+      estrellas y fondo separado spritesheet_188: 8850689448423942122
+      estrellas y fondo separado spritesheet_189: -521156926362550563
+      estrellas y fondo separado spritesheet_19: -7737173704514469657
+      estrellas y fondo separado spritesheet_190: -7215945563744299589
+      estrellas y fondo separado spritesheet_191: 7919943030862571681
+      estrellas y fondo separado spritesheet_192: 7936161390076235572
+      estrellas y fondo separado spritesheet_193: 7173274206379935578
+      estrellas y fondo separado spritesheet_194: 4240488025665321320
+      estrellas y fondo separado spritesheet_195: 9127336266890259413
+      estrellas y fondo separado spritesheet_196: 1443416649583528049
+      estrellas y fondo separado spritesheet_197: -5854010142982784749
+      estrellas y fondo separado spritesheet_198: -5374762521234867804
+      estrellas y fondo separado spritesheet_199: 7198587066106852014
+      estrellas y fondo separado spritesheet_2: -7624199919853396817
+      estrellas y fondo separado spritesheet_20: 7532832770025616097
+      estrellas y fondo separado spritesheet_200: -7351605230536958946
+      estrellas y fondo separado spritesheet_201: -3623676519389211270
+      estrellas y fondo separado spritesheet_202: -6617808829842101093
+      estrellas y fondo separado spritesheet_203: 2959359344624782969
+      estrellas y fondo separado spritesheet_204: -4871436969001696206
+      estrellas y fondo separado spritesheet_205: 3395875057659353236
+      estrellas y fondo separado spritesheet_206: 392392805789735480
+      estrellas y fondo separado spritesheet_207: -7322370423494770129
+      estrellas y fondo separado spritesheet_208: -3073697482622219400
+      estrellas y fondo separado spritesheet_209: -4417106507377544720
+      estrellas y fondo separado spritesheet_21: -2666660835490555355
+      estrellas y fondo separado spritesheet_210: 8759984898247008012
+      estrellas y fondo separado spritesheet_211: -2916253418135315049
+      estrellas y fondo separado spritesheet_212: 435661445661372538
+      estrellas y fondo separado spritesheet_213: 9124889862994194309
+      estrellas y fondo separado spritesheet_214: -2330584480545250516
+      estrellas y fondo separado spritesheet_215: -2584228417958447580
+      estrellas y fondo separado spritesheet_216: -4098916585384439365
+      estrellas y fondo separado spritesheet_217: 2122132719999441145
+      estrellas y fondo separado spritesheet_218: 9971437315087951
+      estrellas y fondo separado spritesheet_219: 6775049733649181717
+      estrellas y fondo separado spritesheet_22: -8317281362367567850
+      estrellas y fondo separado spritesheet_220: -68427441769369239
+      estrellas y fondo separado spritesheet_221: 7028151215653202139
+      estrellas y fondo separado spritesheet_222: 5494155669962389814
+      estrellas y fondo separado spritesheet_223: -5528024959468705622
+      estrellas y fondo separado spritesheet_224: -4055169655044780412
+      estrellas y fondo separado spritesheet_225: -1194622220050817872
+      estrellas y fondo separado spritesheet_226: 6246815157268875369
+      estrellas y fondo separado spritesheet_227: -1448141776846368399
+      estrellas y fondo separado spritesheet_228: -4385003280236410734
+      estrellas y fondo separado spritesheet_229: 7845498833074823947
+      estrellas y fondo separado spritesheet_23: -5020657279719049032
+      estrellas y fondo separado spritesheet_230: -7152514576403273972
+      estrellas y fondo separado spritesheet_231: 2586775992402368934
+      estrellas y fondo separado spritesheet_232: 9042436301597859394
+      estrellas y fondo separado spritesheet_233: -657532354237946020
+      estrellas y fondo separado spritesheet_234: -8464017102262691646
+      estrellas y fondo separado spritesheet_235: -6726203029273756568
+      estrellas y fondo separado spritesheet_236: -2810728423320964722
+      estrellas y fondo separado spritesheet_237: 927989627045099713
+      estrellas y fondo separado spritesheet_238: -7837216801122997398
+      estrellas y fondo separado spritesheet_239: 7419941581051980695
+      estrellas y fondo separado spritesheet_24: 1599924382791663017
+      estrellas y fondo separado spritesheet_240: 5585826540226643003
+      estrellas y fondo separado spritesheet_241: 4050301438126936948
+      estrellas y fondo separado spritesheet_242: -2245849039269923003
+      estrellas y fondo separado spritesheet_243: -5899007183779776949
+      estrellas y fondo separado spritesheet_244: 6627032372812772818
+      estrellas y fondo separado spritesheet_245: 3906561148913771947
+      estrellas y fondo separado spritesheet_25: 3037445027905723945
+      estrellas y fondo separado spritesheet_26: -459233492937335690
+      estrellas y fondo separado spritesheet_27: -765568777122777982
+      estrellas y fondo separado spritesheet_28: -1711415955130714469
+      estrellas y fondo separado spritesheet_29: 5043354449141515566
+      estrellas y fondo separado spritesheet_3: 882743919741902097
+      estrellas y fondo separado spritesheet_30: 8293779843731769490
+      estrellas y fondo separado spritesheet_31: -9086613909794841170
+      estrellas y fondo separado spritesheet_32: 4293801026405683598
+      estrellas y fondo separado spritesheet_33: 4113279564652387088
+      estrellas y fondo separado spritesheet_34: -1040389082807540249
+      estrellas y fondo separado spritesheet_35: -7761784139384384953
+      estrellas y fondo separado spritesheet_36: -9040705124502388812
+      estrellas y fondo separado spritesheet_37: 3930415889010859827
+      estrellas y fondo separado spritesheet_38: -6784289194555007009
+      estrellas y fondo separado spritesheet_39: 3775655700091489478
+      estrellas y fondo separado spritesheet_4: 7204336343502474836
+      estrellas y fondo separado spritesheet_40: 6197053728699110777
+      estrellas y fondo separado spritesheet_41: 8320118142269403214
+      estrellas y fondo separado spritesheet_42: -7776942851970233365
+      estrellas y fondo separado spritesheet_43: 2233797797123607958
+      estrellas y fondo separado spritesheet_44: -7369491822738929369
+      estrellas y fondo separado spritesheet_45: -609817270251913378
+      estrellas y fondo separado spritesheet_46: 8198663385822061113
+      estrellas y fondo separado spritesheet_47: -2219034350689588817
+      estrellas y fondo separado spritesheet_48: -1386988662343521983
+      estrellas y fondo separado spritesheet_49: -1739639259797440020
+      estrellas y fondo separado spritesheet_5: 3813923105522694025
+      estrellas y fondo separado spritesheet_50: -5000471539947603317
+      estrellas y fondo separado spritesheet_51: 3272700408423075434
+      estrellas y fondo separado spritesheet_52: -8443713341523169121
+      estrellas y fondo separado spritesheet_53: -3964916788999076309
+      estrellas y fondo separado spritesheet_54: 3148393782404583116
+      estrellas y fondo separado spritesheet_55: 5898906156569979036
+      estrellas y fondo separado spritesheet_56: 1746490193804702590
+      estrellas y fondo separado spritesheet_57: 2434953250866994068
+      estrellas y fondo separado spritesheet_58: 7845653385095266991
+      estrellas y fondo separado spritesheet_59: 454232481584001589
+      estrellas y fondo separado spritesheet_6: 796490836919058898
+      estrellas y fondo separado spritesheet_60: -5318899567092156112
+      estrellas y fondo separado spritesheet_61: 2435926245292222617
+      estrellas y fondo separado spritesheet_62: -8349544770759258082
+      estrellas y fondo separado spritesheet_63: 2786988803848838407
+      estrellas y fondo separado spritesheet_64: -6505732596464610916
+      estrellas y fondo separado spritesheet_65: -4205617945268977253
+      estrellas y fondo separado spritesheet_66: 7330984384750397415
+      estrellas y fondo separado spritesheet_67: 7597813030770481403
+      estrellas y fondo separado spritesheet_68: -964260463869958694
+      estrellas y fondo separado spritesheet_69: -1078343957663185275
+      estrellas y fondo separado spritesheet_7: 750490091667907186
+      estrellas y fondo separado spritesheet_70: -4606988436323504320
+      estrellas y fondo separado spritesheet_71: 5634604785662949718
+      estrellas y fondo separado spritesheet_72: -890395069280046589
+      estrellas y fondo separado spritesheet_73: 1584535288178647118
+      estrellas y fondo separado spritesheet_74: -6058626920060912700
+      estrellas y fondo separado spritesheet_75: 883258361637931668
+      estrellas y fondo separado spritesheet_76: 3629574573410450182
+      estrellas y fondo separado spritesheet_77: 6315440107016653146
+      estrellas y fondo separado spritesheet_78: -3583599094338754997
+      estrellas y fondo separado spritesheet_79: -1156146957146783965
+      estrellas y fondo separado spritesheet_8: 7644123163325597109
+      estrellas y fondo separado spritesheet_80: -1187550024044835092
+      estrellas y fondo separado spritesheet_81: 8444906999724782849
+      estrellas y fondo separado spritesheet_82: -8940402840886093639
+      estrellas y fondo separado spritesheet_83: 3251386451988181020
+      estrellas y fondo separado spritesheet_84: -5946295681528697808
+      estrellas y fondo separado spritesheet_85: -801514025960332023
+      estrellas y fondo separado spritesheet_86: 7952878816013155763
+      estrellas y fondo separado spritesheet_87: 6881766380827504381
+      estrellas y fondo separado spritesheet_88: 4603173674189793283
+      estrellas y fondo separado spritesheet_89: -3450918599509232579
+      estrellas y fondo separado spritesheet_9: -8948734042826195832
+      estrellas y fondo separado spritesheet_90: 521849208310731544
+      estrellas y fondo separado spritesheet_91: 8392550491033293866
+      estrellas y fondo separado spritesheet_92: -5442033209776139547
+      estrellas y fondo separado spritesheet_93: -2057737422476969995
+      estrellas y fondo separado spritesheet_94: -9159339435572548512
+      estrellas y fondo separado spritesheet_95: 3190696761932827113
+      estrellas y fondo separado spritesheet_96: 6943474045053797609
+      estrellas y fondo separado spritesheet_97: 3790372586738914786
+      estrellas y fondo separado spritesheet_98: 8085149231384320133
+      estrellas y fondo separado spritesheet_99: -248604534608148078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

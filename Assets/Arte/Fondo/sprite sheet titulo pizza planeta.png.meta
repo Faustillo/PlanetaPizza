@@ -109,12 +109,12 @@ TextureImporter:
       name: sprite sheet titulo pizza planeta_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 3
-        width: 147
-        height: 71
+        x: 0
+        y: 0
+        width: 150
+        height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -128,37 +128,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet titulo pizza planeta_1
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 71
-        width: 19
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7273bcea0a9d0cea0800000000000000
-      internalID: -5854440231431096537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: sprite sheet titulo pizza planeta_2
       rect:
         serializedVersion: 2
-        x: 171
-        y: 0
-        width: 220
-        height: 73
+        x: 169
+        y: 1
+        width: 221
+        height: 89
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,7 +153,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c21405aee3c2d634b8b7b7c4af214f6d
     internalID: 0
     vertices: []
     indices: 
@@ -183,7 +161,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       sprite sheet titulo pizza planeta_0: -9067879887203838140
       sprite sheet titulo pizza planeta_1: -5854440231431096537

@@ -177,8 +177,8 @@ MonoBehaviour:
   proyectilPrefab: {fileID: 7647934736087187184, guid: e2b9723da452d044795d6f19a46ddf4d, type: 3}
   puntoDisparo: {fileID: 7387807080807150976}
   danioProyectil: 10
-  intervaloMin: 1
-  intervaloMax: 3
+  intervaloMin: 0.5
+  intervaloMax: 1
 --- !u!61 &3640650742955601394
 BoxCollider2D:
   m_ObjectHideFlags: 0
