@@ -7,7 +7,7 @@ using UnityEngine;
 /// Mientras el Jugador esté dentro de la zona, se le recarga energía.
 /// </summary>
 /// 
-/*
+
 public class Sol : MonoBehaviour
 {
     [Header("Recarga")]
@@ -51,4 +51,3 @@ public class Sol : MonoBehaviour
         jugador.RecargarEnergia(tasaRecarga * dt);
     }
 }
-*/
