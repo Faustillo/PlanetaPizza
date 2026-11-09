@@ -1,3 +1,4 @@
+using System.Collections;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -32,6 +33,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private string escenaMenu = "Menu";
 
     private float tiempoRestante;
+    private bool finalPendiente; // hay una derrota en camino (esperando la animación)
 
     public EstadoJuego Estado { get; private set; } = EstadoJuego.Jugando;
     public float TiempoRestante => tiempoRestante;
@@ -46,7 +48,7 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (Estado != EstadoJuego.Jugando) return;
+        if (Estado != EstadoJuego.Jugando || finalPendiente) return;
 
         tiempoRestante -= Time.deltaTime;
 
@@ -80,10 +82,31 @@ public class GameManager : MonoBehaviour
 
     public void Victoria()
     {
-        if (Estado != EstadoJuego.Jugando) return; // ya terminó la partida
+        if (Estado != EstadoJuego.Jugando || finalPendiente) return; // ya terminó la partida
 
         Estado = EstadoJuego.Victoria;
         Terminar(panelVictoria);
+    }
+
+    /// <summary>
+    /// Derrota que espera unos segundos antes de mostrar el panel
+    /// (para que se vea la animación de muerte del jugador).
+    /// </summary>
+    public void DerrotaConRetardo(string motivo, float segundos)
+    {
+        if (Estado != EstadoJuego.Jugando || finalPendiente) return;
+
+        finalPendiente = true;
+        DetenerSpawners();
+        StartCoroutine(EsperarYPerder(motivo, segundos));
+    }
+
+    private IEnumerator EsperarYPerder(string motivo, float segundos)
+    {
+        yield return new WaitForSeconds(segundos);
+
+        finalPendiente = false;
+        Derrota(motivo);
     }
 
     public void Derrota(string motivo = "")
@@ -103,10 +126,15 @@ public class GameManager : MonoBehaviour
         Terminar(panelDerrota);
     }
 
-    private void Terminar(GameObject panel)
+    private void DetenerSpawners()
     {
         if (ovniSpawner != null) ovniSpawner.Detener();
         if (pirataSpawner != null) pirataSpawner.Detener();
+    }
+
+    private void Terminar(GameObject panel)
+    {
+        DetenerSpawners();
 
         if (panel != null) panel.SetActive(true);
 

@@ -25,6 +25,10 @@ public class Jugador : Entidad
     [Header("Daño e invulnerabilidad")]
     [SerializeField] private float duracionInvulnerabilidad = 1f;
 
+    [Header("Derrota")]
+    [Tooltip("Segundos entre quedarse sin energía y mostrar el panel (para ver la animación de muerte).")]
+    [SerializeField] private float retardoDerrota = 1.5f;
+
     private bool estaInvulnerable;
     private float temporizadorInvulnerabilidad;
 
@@ -218,6 +222,9 @@ public class Jugador : Entidad
             );
 
             stateMachine.SetState<MorirState>();
+
+            if (GameManager.Instance != null)
+                GameManager.Instance.DerrotaConRetardo("energia", retardoDerrota);
         }
     }
 
