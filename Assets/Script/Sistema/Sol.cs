@@ -6,8 +6,6 @@ using UnityEngine;
 ///  2) Collider de la zona de recarga (IsTrigger = true): más grande que el cuerpo.
 /// Mientras el Jugador esté dentro de la zona, se le recarga energía.
 /// </summary>
-/// 
-
 public class Sol : MonoBehaviour
 {
     [Header("Recarga")]
