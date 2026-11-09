@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 3628046fd37f3c3499ec852b61fcb99b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7459744371186508656
+    second: CINTURON ASTEROIDES_0
+  - first:
+      213: -8007072144090526693
+    second: CINTURON ASTEROIDES_1
+  - first:
+      213: -1525874610620135662
+    second: CINTURON ASTEROIDES_2
+  - first:
+      213: 6780800720415750397
+    second: CINTURON ASTEROIDES_3
+  - first:
+      213: 6665300201600536453
+    second: CINTURON ASTEROIDES_4
+  - first:
+      213: -696106477802717908
+    second: CINTURON ASTEROIDES_5
+  - first:
+      213: -955367307317505141
+    second: CINTURON ASTEROIDES_6
+  - first:
+      213: -2427028385126485101
+    second: CINTURON ASTEROIDES_7
+  - first:
+      213: 1225106003438558221
+    second: CINTURON ASTEROIDES_8
+  - first:
+      213: 7852043050257613776
+    second: CINTURON ASTEROIDES_9
+  - first:
+      213: 1972036972046988574
+    second: CINTURON ASTEROIDES_10
+  - first:
+      213: -832126212764419572
+    second: CINTURON ASTEROIDES_11
+  - first:
+      213: 7028395031126943646
+    second: CINTURON ASTEROIDES_12
+  - first:
+      213: -707189506741958776
+    second: CINTURON ASTEROIDES_13
+  - first:
+      213: -5015253170237641943
+    second: CINTURON ASTEROIDES_14
+  - first:
+      213: 5082874068868570195
+    second: CINTURON ASTEROIDES_15
+  - first:
+      213: 3554332675798252753
+    second: CINTURON ASTEROIDES_16
+  - first:
+      213: -8822584063385139107
+    second: CINTURON ASTEROIDES_17
+  - first:
+      213: 6387220937662504059
+    second: CINTURON ASTEROIDES_18
+  - first:
+      213: 7939854398176643397
+    second: CINTURON ASTEROIDES_19
+  - first:
+      213: 7591221589095406804
+    second: CINTURON ASTEROIDES_20
+  - first:
+      213: -8534872722202821142
+    second: CINTURON ASTEROIDES_21
+  - first:
+      213: -720891756828322871
+    second: CINTURON ASTEROIDES_22
+  - first:
+      213: -8883824793535291174
+    second: CINTURON ASTEROIDES_23
+  - first:
+      213: 1525645202778685119
+    second: CINTURON ASTEROIDES_24
+  - first:
+      213: -424658736350578548
+    second: CINTURON ASTEROIDES_25
+  - first:
+      213: -2346384387419880580
+    second: CINTURON ASTEROIDES_26
+  - first:
+      213: 3460183475114637742
+    second: CINTURON ASTEROIDES_27
+  - first:
+      213: -1932594795650835203
+    second: CINTURON ASTEROIDES_28
+  - first:
+      213: 3345994050674293586
+    second: CINTURON ASTEROIDES_29
+  - first:
+      213: 3591494352942143289
+    second: CINTURON ASTEROIDES_30
+  - first:
+      213: -6520854972208850832
+    second: CINTURON ASTEROIDES_31
+  - first:
+      213: 1567068521556862422
+    second: CINTURON ASTEROIDES_32
+  - first:
+      213: -599665281512971195
+    second: CINTURON ASTEROIDES_33
+  - first:
+      213: -7003764588295505709
+    second: CINTURON ASTEROIDES_34
+  - first:
+      213: -4444731597304159727
+    second: CINTURON ASTEROIDES_35
+  - first:
+      213: -1202447693624031099
+    second: CINTURON ASTEROIDES_36
+  - first:
+      213: 4358501358159729761
+    second: CINTURON ASTEROIDES_37
+  - first:
+      213: 6645981306677243711
+    second: CINTURON ASTEROIDES_38
+  - first:
+      213: 400250239305497607
+    second: CINTURON ASTEROIDES_39
+  - first:
+      213: 4484098026520956798
+    second: CINTURON ASTEROIDES_40
+  - first:
+      213: 9127740857762639246
+    second: CINTURON ASTEROIDES_41
+  - first:
+      213: -83694132825167448
+    second: CINTURON ASTEROIDES_42
+  - first:
+      213: 9140311035450559341
+    second: CINTURON ASTEROIDES_43
+  - first:
+      213: 3008366716599924760
+    second: CINTURON ASTEROIDES_44
+  - first:
+      213: 4281081279857736151
+    second: CINTURON ASTEROIDES_45
+  - first:
+      213: -344725328623258507
+    second: CINTURON ASTEROIDES_46
+  - first:
+      213: -4994958266201661189
+    second: CINTURON ASTEROIDES_47
+  - first:
+      213: 1230038270474241241
+    second: CINTURON ASTEROIDES_48
+  - first:
+      213: 3970213632379520564
+    second: CINTURON ASTEROIDES_49
+  - first:
+      213: 2694771858742144229
+    second: CINTURON ASTEROIDES_50
+  - first:
+      213: -131940152420076790
+    second: CINTURON ASTEROIDES_51
+  - first:
+      213: 4500061209728388279
+    second: CINTURON ASTEROIDES_52
+  - first:
+      213: -8445373627829962982
+    second: CINTURON ASTEROIDES_53
+  - first:
+      213: -5140024729538362398
+    second: CINTURON ASTEROIDES_54
+  - first:
+      213: -6131956120536550508
+    second: CINTURON ASTEROIDES_55
+  - first:
+      213: 5046763654658033029
+    second: CINTURON ASTEROIDES_56
+  - first:
+      213: -6554201895539171356
+    second: CINTURON ASTEROIDES_57
+  - first:
+      213: -7489132202122169545
+    second: CINTURON ASTEROIDES_58
+  - first:
+      213: -4856131254911391614
+    second: CINTURON ASTEROIDES_59
+  - first:
+      213: -8151427714208592079
+    second: CINTURON ASTEROIDES_60
+  - first:
+      213: -1375456985161084537
+    second: CINTURON ASTEROIDES_61
+  - first:
+      213: -9010512718803786890
+    second: CINTURON ASTEROIDES_62
+  - first:
+      213: 371842316018775405
+    second: CINTURON ASTEROIDES_63
+  - first:
+      213: 2857287486779044473
+    second: CINTURON ASTEROIDES_64
+  - first:
+      213: 3768762893188261527
+    second: CINTURON ASTEROIDES_65
+  - first:
+      213: 699384294052905725
+    second: CINTURON ASTEROIDES_66
+  - first:
+      213: 2575700761132660561
+    second: CINTURON ASTEROIDES_67
+  - first:
+      213: 6926547166195380952
+    second: CINTURON ASTEROIDES_68
+  - first:
+      213: 9037305727689791062
+    second: CINTURON ASTEROIDES_69
+  - first:
+      213: -792245564843443082
+    second: CINTURON ASTEROIDES_70
+  - first:
+      213: -4088808017169591520
+    second: CINTURON ASTEROIDES_71
+  - first:
+      213: 4968622479539933729
+    second: CINTURON ASTEROIDES_72
+  - first:
+      213: -4785375603142393772
+    second: CINTURON ASTEROIDES_73
+  - first:
+      213: 8205913350974754715
+    second: CINTURON ASTEROIDES_74
+  - first:
+      213: 312984827860144508
+    second: CINTURON ASTEROIDES_75
+  - first:
+      213: 5255206490178266955
+    second: CINTURON ASTEROIDES_76
+  - first:
+      213: 9084148535169353431
+    second: CINTURON ASTEROIDES_77
+  - first:
+      213: -6582921701001960812
+    second: CINTURON ASTEROIDES_78
+  - first:
+      213: -3948564528577464634
+    second: CINTURON ASTEROIDES_79
+  - first:
+      213: 752120094172727506
+    second: CINTURON ASTEROIDES_80
+  - first:
+      213: -4377123491062235953
+    second: CINTURON ASTEROIDES_81
+  - first:
+      213: 3268236256225563185
+    second: CINTURON ASTEROIDES_82
+  - first:
+      213: -4595877104087876716
+    second: CINTURON ASTEROIDES_83
+  - first:
+      213: 8909517750770881333
+    second: CINTURON ASTEROIDES_84
+  - first:
+      213: 2640708266190317882
+    second: CINTURON ASTEROIDES_85
+  - first:
+      213: 8358871045590701641
+    second: CINTURON ASTEROIDES_86
+  - first:
+      213: -6190296508503624211
+    second: CINTURON ASTEROIDES_87
+  - first:
+      213: -62395620370611821
+    second: CINTURON ASTEROIDES_88
+  - first:
+      213: -7035476601740119775
+    second: CINTURON ASTEROIDES_89
+  - first:
+      213: 4695196819162246691
+    second: CINTURON ASTEROIDES_90
+  - first:
+      213: -6866126480715424414
+    second: CINTURON ASTEROIDES_91
+  - first:
+      213: -4556416108085175906
+    second: CINTURON ASTEROIDES_92
+  - first:
+      213: 7946677068046676244
+    second: CINTURON ASTEROIDES_93
+  - first:
+      213: -8306358027017974305
+    second: CINTURON ASTEROIDES_94
+  - first:
+      213: 5288291830738671075
+    second: CINTURON ASTEROIDES_95
+  - first:
+      213: -2153359455703776224
+    second: CINTURON ASTEROIDES_96
+  - first:
+      213: -4034175623103119206
+    second: CINTURON ASTEROIDES_97
+  - first:
+      213: -6782672696540295858
+    second: CINTURON ASTEROIDES_98
+  - first:
+      213: -7001271398798628343
+    second: CINTURON ASTEROIDES_99
+  - first:
+      213: 8586482836493801181
+    second: CINTURON ASTEROIDES_100
+  - first:
+      213: 5549705643793047659
+    second: CINTURON ASTEROIDES_101
+  - first:
+      213: -4158630883308765180
+    second: CINTURON ASTEROIDES_102
+  - first:
+      213: 6551633941755450142
+    second: CINTURON ASTEROIDES_103
+  - first:
+      213: -3989330611164955379
+    second: CINTURON ASTEROIDES_104
+  - first:
+      213: 6648035493053552203
+    second: CINTURON ASTEROIDES_105
+  - first:
+      213: -1430902520221779198
+    second: CINTURON ASTEROIDES_106
+  - first:
+      213: -8295644351057365915
+    second: CINTURON ASTEROIDES_107
+  - first:
+      213: 7445877149054629834
+    second: CINTURON ASTEROIDES_108
+  - first:
+      213: -5508656821434983813
+    second: CINTURON ASTEROIDES_109
+  - first:
+      213: -7439451256179067545
+    second: CINTURON ASTEROIDES_110
+  - first:
+      213: 91177588993404874
+    second: CINTURON ASTEROIDES_111
+  - first:
+      213: 4600557550966121451
+    second: CINTURON ASTEROIDES_112
+  - first:
+      213: 4570394082592067321
+    second: CINTURON ASTEROIDES_113
+  - first:
+      213: 4905244158820704529
+    second: CINTURON ASTEROIDES_114
+  - first:
+      213: -2823285924398523729
+    second: CINTURON ASTEROIDES_115
+  - first:
+      213: -3509970373621259887
+    second: CINTURON ASTEROIDES_116
+  - first:
+      213: 9201273555289291628
+    second: CINTURON ASTEROIDES_117
+  - first:
+      213: -9063811474471513058
+    second: CINTURON ASTEROIDES_118
+  - first:
+      213: -7024514411754976405
+    second: CINTURON ASTEROIDES_119
+  - first:
+      213: 3774642671711402729
+    second: CINTURON ASTEROIDES_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CINTURON ASTEROIDES_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4200
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 97, z: 0, w: 93}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073aacf6bf5568760800000000000000
+      internalID: 7459744371186508656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1a679022f843874409d1f14eafe6086c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":4200.0,"y":400.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      CINTURON ASTEROIDES_0: 7459744371186508656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
